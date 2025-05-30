@@ -1,0 +1,14 @@
+sentence_transformers
+gensim
+pandas
+numpy
+scipy
+transformers
+textstat
+openai
+spacy
+scikit-learn
+nltk
+networkx
+matplotlib
+seaborn

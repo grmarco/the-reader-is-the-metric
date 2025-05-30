@@ -1,0 +1,721 @@
+username,story_id,ranking_pos,ranking_value,ranking_value_norm
+Expert1,El pintor de recuerdos_patricio,1,21,1.0
+Expert1,Reflejos de otro mundo_patricio,2,19,0.8888888888888888
+Expert1,El último viaje de Santiago Calatrava_gpt4_en,2,19,0.8888888888888888
+Expert1,Todas las fotos son de cuando éramos jóvenes_patricio,3,18,0.8333333333333334
+Expert1,Canción de la Luna cautiva_patricio,3,18,0.8333333333333334
+Expert1,Entre nubes y espejismos_patricio,3,18,0.8333333333333334
+Expert1,Destellos en la oscuridad_patricio,3,18,0.8333333333333334
+Expert1,El mosaico del tiempo_patricio,3,18,0.8333333333333334
+Expert1,El Botón Rojo nacional_patricio,3,18,0.8333333333333334
+Expert1,El viento entre los páramos_patricio,3,18,0.8333333333333334
+Expert1,Otro episodio en la lucha de clases_patricio,4,17,0.7777777777777778
+Expert1,Bajo el cielo de cobre_patricio,5,16,0.7222222222222222
+Expert1,La travesía del Alba_patricio,5,16,0.7222222222222222
+Expert1,El día después del día después del Día de la Marmota_patricio,5,16,0.7222222222222222
+Expert1,Las delicias del Jardín de las Delicias_patricio,5,16,0.7222222222222222
+Expert1,Sombras en la niebla_patricio,5,16,0.7222222222222222
+Expert1,Sigo tratando de olvidar tu promesa_patricio,5,16,0.7222222222222222
+Expert1,El susurro del cosmos_patricio,6,15,0.6666666666666666
+Expert1,El último vuelo de la mariposa_patricio,6,15,0.6666666666666666
+Expert1,Huellas en el mar de arena_patricio,6,15,0.6666666666666666
+Expert1,Fragmentos de un ayer invisible_patricio,6,15,0.6666666666666666
+Expert1,La vaca atada_gpt4_en,6,15,0.6666666666666666
+Expert1,Eclipse en el Jardín Botánico_patricio,7,14,0.6111111111111112
+Expert1,Susurros de la Ciudad Eterna_patricio,7,14,0.6111111111111112
+Expert1,El despertar de la Aurora_patricio,7,14,0.6111111111111112
+Expert1,Retazos de realidad_patricio,7,14,0.6111111111111112
+Expert1,Más allá del horizonte roto_patricio,7,14,0.6111111111111112
+Expert1,La mujer Lego_patricio,7,14,0.6111111111111112
+Expert1,No tengo miedo porque no tengo nada_patricio,7,14,0.6111111111111112
+Expert1,El eco de las voces silenciadas_patricio,7,14,0.6111111111111112
+Expert1,¿Quién mató a Patricio Pron?_patricio,7,14,0.6111111111111112
+Expert1,Edith lo ama (luego volveremos a ello)_patricio,8,13,0.5555555555555556
+Expert1,Ecos del futuro_gpt4_en,8,13,0.5555555555555556
+Expert1,"Escoge una carta, cualquiera. ¡No, esa no! ¡Otra!_gpt4_en",8,13,0.5555555555555556
+Expert1,El último viaje de Santiago Calatrava_patricio,8,13,0.5555555555555556
+Expert1,"Ascenso y caída de R. S. Turtleneck, escritor infantil_gpt4_en",8,13,0.5555555555555556
+Expert1,El laberinto de cristal_patricio,8,13,0.5555555555555556
+Expert1,La última noche en la Tierra_patricio,8,13,0.5555555555555556
+Expert1,Las emisiones nocturnas_patricio,8,13,0.5555555555555556
+Expert1,Entre las líneas del destino_patricio,8,13,0.5555555555555556
+Expert1,"Ascenso y caída de R. S. Turtleneck, escritor infantil_patricio",9,12,0.5
+Expert1,La última risa de aquel año_patricio,9,12,0.5
+Expert1,"Sedas de Bursa, azulejos de Kütahya_patricio",9,12,0.5
+Expert1,Ecos de un sueño perdido_patricio,9,12,0.5
+Expert1,No se lo digas a mamá_patricio,9,12,0.5
+Expert1,Lindsay Hilton visita París_patricio,9,12,0.5
+Expert1,Aquí habitan monstruos_gpt4_en,9,12,0.5
+Expert1,Enfermedad mental tres días a la semana_patricio,9,12,0.5
+Expert1,Fantasmas futuros_patricio,9,12,0.5
+Expert1,El Botón Rojo nacional_gpt4_en,9,12,0.5
+Expert1,Ecos del futuro_patricio,10,11,0.4444444444444444
+Expert1,"Escoge una carta, cualquiera. ¡No, esa no! ¡Otra!_patricio",10,11,0.4444444444444444
+Expert1,Las emisiones nocturnas_gpt4_en,10,11,0.4444444444444444
+Expert1,¿Quién mató a Patricio Pron?_gpt4_en,10,11,0.4444444444444444
+Expert1,La mujer Lego_gpt4_en,10,11,0.4444444444444444
+Expert1,El susurro del cosmos_gpt4_en,10,11,0.4444444444444444
+Expert1,Ocaso de titanes_gpt4_en,10,11,0.4444444444444444
+Expert1,"Juventud española, sigue intentándolo_patricio",11,10,0.3888888888888889
+Expert1,La ciudad invertida_patricio,11,10,0.3888888888888889
+Expert1,La travesía del Alba_gpt4_en,11,10,0.3888888888888889
+Expert1,El Paraíso no puede verse desde aquí_patricio,11,10,0.3888888888888889
+Expert1,Destellos en la oscuridad_gpt4_en,11,10,0.3888888888888889
+Expert1,Enfermedad mental tres días a la semana_gpt4_en,11,10,0.3888888888888889
+Expert1,Caminos paralelos_gpt4_en,11,10,0.3888888888888889
+Expert1,Cuando estás en la cima no puedes caer más bajo_patricio,11,10,0.3888888888888889
+Expert1,Dos policías nos separan_patricio,11,10,0.3888888888888889
+Expert1,Todas las canciones de amor son canciones tristes_patricio,11,10,0.3888888888888889
+Expert1,Las sombras del tiempo_patricio,11,10,0.3888888888888889
+Expert1,No se lo digas a mamá_gpt4_en,11,10,0.3888888888888889
+Expert1,Después de todo lo que casi hice por ti_gpt4_en,12,9,0.3333333333333333
+Expert1,Todas las canciones de amor son canciones tristes_gpt4_en,12,9,0.3333333333333333
+Expert1,Cuando estás en la cima no puedes caer más bajo_gpt4_en,12,9,0.3333333333333333
+Expert1,Bajo el cielo de cobre_gpt4_en,12,9,0.3333333333333333
+Expert1,Sombras en la niebla_gpt4_en,12,9,0.3333333333333333
+Expert1,Después de todo lo que casi hice por ti_patricio,13,8,0.2777777777777778
+Expert1,El viento entre los páramos_gpt4_en,13,8,0.2777777777777778
+Expert1,El jardín de los sueños marchitos_patricio,13,8,0.2777777777777778
+Expert1,Ocaso de titanes_patricio,13,8,0.2777777777777778
+Expert1,La vaca atada_patricio,13,8,0.2777777777777778
+Expert1,El pintor de recuerdos_gpt4_en,13,8,0.2777777777777778
+Expert1,Sigo tratando de olvidar tu promesa_gpt4_en,13,8,0.2777777777777778
+Expert1,Reflejos de otro mundo_gpt4_en,13,8,0.2777777777777778
+Expert1,"Juventud española, sigue intentándolo_gpt4_en",13,8,0.2777777777777778
+Expert1,La melodía olvidada_patricio,13,8,0.2777777777777778
+Expert1,El mosaico del tiempo_gpt4_en,13,8,0.2777777777777778
+Expert1,La melodía olvidada_gpt4_en,13,8,0.2777777777777778
+Expert1,La última risa de aquel año_gpt4_en,13,8,0.2777777777777778
+Expert1,Eclipse en el Jardín Botánico_gpt4_en,13,8,0.2777777777777778
+Expert1,No tengo miedo porque no tengo nada_gpt4_en,14,7,0.2222222222222222
+Expert1,Fragmentos de un ayer invisible_gpt4_en,14,7,0.2222222222222222
+Expert1,Ecos de un sueño perdido_gpt4_en,14,7,0.2222222222222222
+Expert1,El laberinto de cristal_gpt4_en,14,7,0.2222222222222222
+Expert1,El jardín de los sueños marchitos_gpt4_en,14,7,0.2222222222222222
+Expert1,Todas las fotos son de cuando éramos jóvenes_gpt4_en,14,7,0.2222222222222222
+Expert1,Dos policías nos separan_gpt4_en,14,7,0.2222222222222222
+Expert1,Huellas en el mar de arena_gpt4_en,14,7,0.2222222222222222
+Expert1,Más allá del horizonte roto_gpt4_en,14,7,0.2222222222222222
+Expert1,Las sombras del tiempo_gpt4_en,14,7,0.2222222222222222
+Expert1,Entre nubes y espejismos_gpt4_en,14,7,0.2222222222222222
+Expert1,Canción de la Luna cautiva_gpt4_en,14,7,0.2222222222222222
+Expert1,El último vuelo de la mariposa_gpt4_en,14,7,0.2222222222222222
+Expert1,La ciudad invertida_gpt4_en,14,7,0.2222222222222222
+Expert1,Las delicias del Jardín de las Delicias_gpt4_en,14,7,0.2222222222222222
+Expert1,Las pesadillas del hombre invisible_gpt4_en,14,7,0.2222222222222222
+Expert1,El Paraíso no puede verse desde aquí_gpt4_en,14,7,0.2222222222222222
+Expert1,La última noche en la Tierra_gpt4_en,15,6,0.16666666666666666
+Expert1,"Sedas de Bursa, azulejos de Kütahya_gpt4_en",15,6,0.16666666666666666
+Expert1,Lindsay Hilton visita París_gpt4_en,15,6,0.16666666666666666
+Expert1,Otro episodio en la lucha de clases_gpt4_en,15,6,0.16666666666666666
+Expert1,Entre las líneas del destino_gpt4_en,15,6,0.16666666666666666
+Expert1,El día después del día después del Día de la Marmota_gpt4_en,15,6,0.16666666666666666
+Expert1,El eco de las voces silenciadas_gpt4_en,15,6,0.16666666666666666
+Expert1,Fantasmas futuros_gpt4_en,15,6,0.16666666666666666
+Expert1,El despertar de la Aurora_gpt4_en,16,5,0.1111111111111111
+Expert1,Las pesadillas del hombre invisible_patricio,16,5,0.1111111111111111
+Expert1,Aquí habitan monstruos_patricio,16,5,0.1111111111111111
+Expert1,Susurros de la Ciudad Eterna_gpt4_en,17,4,0.05555555555555555
+Expert1,Caminos paralelos_patricio,17,4,0.05555555555555555
+Expert1,Retazos de realidad_gpt4_en,18,3,0.0
+Expert1,Edith lo ama (luego volveremos a ello)_gpt4_en,18,3,0.0
+Expert2,Fragmentos de un ayer invisible_patricio,1,20,1.0
+Expert2,Todas las fotos son de cuando éramos jóvenes_patricio,2,18,0.9
+Expert2,¿Quién mató a Patricio Pron?_patricio,3,16,0.8
+Expert2,Caminos paralelos_patricio,3,16,0.8
+Expert2,Las sombras del tiempo_gpt4_en,4,15,0.75
+Expert2,Enfermedad mental tres días a la semana_patricio,5,14,0.7
+Expert2,Otro episodio en la lucha de clases_patricio,5,14,0.7
+Expert2,Las sombras del tiempo_patricio,5,14,0.7
+Expert2,Dos policías nos separan_patricio,5,14,0.7
+Expert2,Sigo tratando de olvidar tu promesa_patricio,5,14,0.7
+Expert2,Entre las líneas del destino_patricio,5,14,0.7
+Expert2,Reflejos de otro mundo_patricio,6,13,0.65
+Expert2,Fantasmas futuros_patricio,6,13,0.65
+Expert2,Aquí habitan monstruos_gpt4_en,6,13,0.65
+Expert2,El laberinto de cristal_patricio,6,13,0.65
+Expert2,El despertar de la Aurora_patricio,6,13,0.65
+Expert2,La melodía olvidada_patricio,6,13,0.65
+Expert2,Sigo tratando de olvidar tu promesa_gpt4_en,6,13,0.65
+Expert2,Canción de la Luna cautiva_patricio,6,13,0.65
+Expert2,No se lo digas a mamá_gpt4_en,6,13,0.65
+Expert2,El Botón Rojo nacional_patricio,7,12,0.6
+Expert2,La mujer Lego_patricio,7,12,0.6
+Expert2,La ciudad invertida_patricio,7,12,0.6
+Expert2,Entre nubes y espejismos_patricio,7,12,0.6
+Expert2,Susurros de la Ciudad Eterna_patricio,7,12,0.6
+Expert2,No se lo digas a mamá_patricio,7,12,0.6
+Expert2,Después de todo lo que casi hice por ti_patricio,7,12,0.6
+Expert2,Eclipse en el Jardín Botánico_patricio,7,12,0.6
+Expert2,Destellos en la oscuridad_patricio,7,12,0.6
+Expert2,No tengo miedo porque no tengo nada_patricio,8,11,0.55
+Expert2,Fantasmas futuros_gpt4_en,8,11,0.55
+Expert2,El día después del día después del Día de la Marmota_patricio,8,11,0.55
+Expert2,La mujer Lego_gpt4_en,8,11,0.55
+Expert2,La última risa de aquel año_gpt4_en,9,10,0.5
+Expert2,La travesía del Alba_patricio,9,10,0.5
+Expert2,Las emisiones nocturnas_patricio,9,10,0.5
+Expert2,Eclipse en el Jardín Botánico_gpt4_en,9,10,0.5
+Expert2,Cuando estás en la cima no puedes caer más bajo_patricio,9,10,0.5
+Expert2,Ecos del futuro_patricio,10,9,0.45
+Expert2,Canción de la Luna cautiva_gpt4_en,10,9,0.45
+Expert2,Huellas en el mar de arena_patricio,10,9,0.45
+Expert2,Retazos de realidad_patricio,10,9,0.45
+Expert2,El último vuelo de la mariposa_patricio,10,9,0.45
+Expert2,Lindsay Hilton visita París_patricio,10,9,0.45
+Expert2,Las emisiones nocturnas_gpt4_en,10,9,0.45
+Expert2,El mosaico del tiempo_patricio,10,9,0.45
+Expert2,El Paraíso no puede verse desde aquí_gpt4_en,10,9,0.45
+Expert2,Edith lo ama (luego volveremos a ello)_patricio,10,9,0.45
+Expert2,Ocaso de titanes_patricio,11,8,0.4
+Expert2,Las delicias del Jardín de las Delicias_patricio,11,8,0.4
+Expert2,El viento entre los páramos_patricio,11,8,0.4
+Expert2,"Escoge una carta, cualquiera. ¡No, esa no! ¡Otra!_patricio",11,8,0.4
+Expert2,"Juventud española, sigue intentándolo_patricio",11,8,0.4
+Expert2,El pintor de recuerdos_patricio,11,8,0.4
+Expert2,Enfermedad mental tres días a la semana_gpt4_en,11,8,0.4
+Expert2,Entre nubes y espejismos_gpt4_en,11,8,0.4
+Expert2,"Sedas de Bursa, azulejos de Kütahya_patricio",11,8,0.4
+Expert2,No tengo miedo porque no tengo nada_gpt4_en,12,7,0.35
+Expert2,Huellas en el mar de arena_gpt4_en,12,7,0.35
+Expert2,El susurro del cosmos_gpt4_en,12,7,0.35
+Expert2,La ciudad invertida_gpt4_en,12,7,0.35
+Expert2,La vaca atada_patricio,12,7,0.35
+Expert2,Todas las canciones de amor son canciones tristes_patricio,12,7,0.35
+Expert2,El Paraíso no puede verse desde aquí_patricio,12,7,0.35
+Expert2,Las pesadillas del hombre invisible_patricio,12,7,0.35
+Expert2,Bajo el cielo de cobre_gpt4_en,13,6,0.3
+Expert2,La última risa de aquel año_patricio,13,6,0.3
+Expert2,"Sedas de Bursa, azulejos de Kütahya_gpt4_en",13,6,0.3
+Expert2,Las pesadillas del hombre invisible_gpt4_en,14,5,0.25
+Expert2,Más allá del horizonte roto_patricio,14,5,0.25
+Expert2,Edith lo ama (luego volveremos a ello)_gpt4_en,14,5,0.25
+Expert2,Más allá del horizonte roto_gpt4_en,14,5,0.25
+Expert2,El eco de las voces silenciadas_patricio,14,5,0.25
+Expert2,Ecos de un sueño perdido_patricio,14,5,0.25
+Expert2,Sombras en la niebla_patricio,14,5,0.25
+Expert2,El último viaje de Santiago Calatrava_patricio,14,5,0.25
+Expert2,La última noche en la Tierra_patricio,14,5,0.25
+Expert2,El susurro del cosmos_patricio,14,5,0.25
+Expert2,"Escoge una carta, cualquiera. ¡No, esa no! ¡Otra!_gpt4_en",15,4,0.2
+Expert2,El jardín de los sueños marchitos_patricio,15,4,0.2
+Expert2,Ocaso de titanes_gpt4_en,15,4,0.2
+Expert2,Aquí habitan monstruos_patricio,15,4,0.2
+Expert2,El día después del día después del Día de la Marmota_gpt4_en,15,4,0.2
+Expert2,Sombras en la niebla_gpt4_en,16,3,0.15
+Expert2,El mosaico del tiempo_gpt4_en,16,3,0.15
+Expert2,"Ascenso y caída de R. S. Turtleneck, escritor infantil_patricio",16,3,0.15
+Expert2,Cuando estás en la cima no puedes caer más bajo_gpt4_en,16,3,0.15
+Expert2,Entre las líneas del destino_gpt4_en,16,3,0.15
+Expert2,Ecos del futuro_gpt4_en,16,3,0.15
+Expert2,Ecos de un sueño perdido_gpt4_en,16,3,0.15
+Expert2,El jardín de los sueños marchitos_gpt4_en,17,2,0.1
+Expert2,"Ascenso y caída de R. S. Turtleneck, escritor infantil_gpt4_en",17,2,0.1
+Expert2,Las delicias del Jardín de las Delicias_gpt4_en,17,2,0.1
+Expert2,El Botón Rojo nacional_gpt4_en,17,2,0.1
+Expert2,Reflejos de otro mundo_gpt4_en,17,2,0.1
+Expert2,El eco de las voces silenciadas_gpt4_en,17,2,0.1
+Expert2,"Juventud española, sigue intentándolo_gpt4_en",17,2,0.1
+Expert2,Fragmentos de un ayer invisible_gpt4_en,17,2,0.1
+Expert2,El último vuelo de la mariposa_gpt4_en,17,2,0.1
+Expert2,La vaca atada_gpt4_en,17,2,0.1
+Expert2,Bajo el cielo de cobre_patricio,17,2,0.1
+Expert2,Lindsay Hilton visita París_gpt4_en,18,1,0.05
+Expert2,Otro episodio en la lucha de clases_gpt4_en,18,1,0.05
+Expert2,Todas las fotos son de cuando éramos jóvenes_gpt4_en,18,1,0.05
+Expert2,Susurros de la Ciudad Eterna_gpt4_en,18,1,0.05
+Expert2,Destellos en la oscuridad_gpt4_en,18,1,0.05
+Expert2,El laberinto de cristal_gpt4_en,18,1,0.05
+Expert2,Caminos paralelos_gpt4_en,18,1,0.05
+Expert2,El último viaje de Santiago Calatrava_gpt4_en,18,1,0.05
+Expert2,El pintor de recuerdos_gpt4_en,18,1,0.05
+Expert2,La última noche en la Tierra_gpt4_en,18,1,0.05
+Expert2,Retazos de realidad_gpt4_en,19,0,0.0
+Expert2,La travesía del Alba_gpt4_en,19,0,0.0
+Expert2,El viento entre los páramos_gpt4_en,19,0,0.0
+Expert2,Dos policías nos separan_gpt4_en,19,0,0.0
+Expert2,¿Quién mató a Patricio Pron?_gpt4_en,19,0,0.0
+Expert2,La melodía olvidada_gpt4_en,19,0,0.0
+Expert2,El despertar de la Aurora_gpt4_en,19,0,0.0
+Expert2,Todas las canciones de amor son canciones tristes_gpt4_en,19,0,0.0
+Expert2,Después de todo lo que casi hice por ti_gpt4_en,19,0,0.0
+Expert3,Retazos de realidad_patricio,1,21,1.0
+Expert3,Otro episodio en la lucha de clases_patricio,1,21,1.0
+Expert3,El pintor de recuerdos_patricio,1,21,1.0
+Expert3,Fragmentos de un ayer invisible_patricio,2,20,0.9523809523809523
+Expert3,Entre nubes y espejismos_patricio,3,19,0.9047619047619048
+Expert3,El viento entre los páramos_gpt4_en,3,19,0.9047619047619048
+Expert3,Entre las líneas del destino_patricio,3,19,0.9047619047619048
+Expert3,Las delicias del Jardín de las Delicias_gpt4_en,4,17,0.8095238095238095
+Expert3,Huellas en el mar de arena_patricio,5,16,0.7619047619047619
+Expert3,Fantasmas futuros_patricio,6,15,0.7142857142857143
+Expert3,Canción de la Luna cautiva_patricio,7,14,0.6666666666666666
+Expert3,¿Quién mató a Patricio Pron?_patricio,7,14,0.6666666666666666
+Expert3,La mujer Lego_patricio,7,14,0.6666666666666666
+Expert3,El despertar de la Aurora_patricio,7,14,0.6666666666666666
+Expert3,Después de todo lo que casi hice por ti_patricio,7,14,0.6666666666666666
+Expert3,Eclipse en el Jardín Botánico_patricio,7,14,0.6666666666666666
+Expert3,Edith lo ama (luego volveremos a ello)_patricio,8,13,0.6190476190476191
+Expert3,Sigo tratando de olvidar tu promesa_patricio,8,13,0.6190476190476191
+Expert3,El Paraíso no puede verse desde aquí_patricio,8,13,0.6190476190476191
+Expert3,No se lo digas a mamá_patricio,8,13,0.6190476190476191
+Expert3,Reflejos de otro mundo_patricio,8,13,0.6190476190476191
+Expert3,La ciudad invertida_patricio,8,13,0.6190476190476191
+Expert3,Canción de la Luna cautiva_gpt4_en,8,13,0.6190476190476191
+Expert3,"Juventud española, sigue intentándolo_patricio",8,13,0.6190476190476191
+Expert3,Enfermedad mental tres días a la semana_patricio,9,12,0.5714285714285714
+Expert3,Todas las canciones de amor son canciones tristes_patricio,9,12,0.5714285714285714
+Expert3,Todas las fotos son de cuando éramos jóvenes_patricio,9,12,0.5714285714285714
+Expert3,No tengo miedo porque no tengo nada_patricio,9,12,0.5714285714285714
+Expert3,Susurros de la Ciudad Eterna_patricio,10,11,0.5238095238095238
+Expert3,Las delicias del Jardín de las Delicias_patricio,11,9,0.42857142857142855
+Expert3,El día después del día después del Día de la Marmota_patricio,11,9,0.42857142857142855
+Expert3,Las emisiones nocturnas_patricio,11,9,0.42857142857142855
+Expert3,"Ascenso y caída de R. S. Turtleneck, escritor infantil_patricio",11,9,0.42857142857142855
+Expert3,Cuando estás en la cima no puedes caer más bajo_gpt4_en,12,8,0.38095238095238093
+Expert3,Destellos en la oscuridad_patricio,12,8,0.38095238095238093
+Expert3,Dos policías nos separan_patricio,12,8,0.38095238095238093
+Expert3,La última risa de aquel año_patricio,12,8,0.38095238095238093
+Expert3,Las pesadillas del hombre invisible_patricio,12,8,0.38095238095238093
+Expert3,Las pesadillas del hombre invisible_gpt4_en,12,8,0.38095238095238093
+Expert3,El Botón Rojo nacional_patricio,12,8,0.38095238095238093
+Expert3,Aquí habitan monstruos_patricio,13,7,0.3333333333333333
+Expert3,El susurro del cosmos_patricio,13,7,0.3333333333333333
+Expert3,Lindsay Hilton visita París_gpt4_en,13,7,0.3333333333333333
+Expert3,Ecos del futuro_patricio,13,7,0.3333333333333333
+Expert3,El último viaje de Santiago Calatrava_patricio,13,7,0.3333333333333333
+Expert3,No se lo digas a mamá_gpt4_en,13,7,0.3333333333333333
+Expert3,Las sombras del tiempo_patricio,13,7,0.3333333333333333
+Expert3,La melodía olvidada_patricio,13,7,0.3333333333333333
+Expert3,La última risa de aquel año_gpt4_en,13,7,0.3333333333333333
+Expert3,La vaca atada_patricio,14,6,0.2857142857142857
+Expert3,Fantasmas futuros_gpt4_en,14,6,0.2857142857142857
+Expert3,"Sedas de Bursa, azulejos de Kütahya_patricio",14,6,0.2857142857142857
+Expert3,Ecos de un sueño perdido_gpt4_en,14,6,0.2857142857142857
+Expert3,El mosaico del tiempo_patricio,14,6,0.2857142857142857
+Expert3,Las emisiones nocturnas_gpt4_en,14,6,0.2857142857142857
+Expert3,El eco de las voces silenciadas_patricio,14,6,0.2857142857142857
+Expert3,El último viaje de Santiago Calatrava_gpt4_en,14,6,0.2857142857142857
+Expert3,Fragmentos de un ayer invisible_gpt4_en,14,6,0.2857142857142857
+Expert3,Ocaso de titanes_patricio,15,5,0.23809523809523808
+Expert3,Sigo tratando de olvidar tu promesa_gpt4_en,15,5,0.23809523809523808
+Expert3,Cuando estás en la cima no puedes caer más bajo_patricio,15,5,0.23809523809523808
+Expert3,La travesía del Alba_gpt4_en,15,5,0.23809523809523808
+Expert3,La mujer Lego_gpt4_en,15,5,0.23809523809523808
+Expert3,El Botón Rojo nacional_gpt4_en,15,5,0.23809523809523808
+Expert3,Bajo el cielo de cobre_patricio,15,5,0.23809523809523808
+Expert3,Caminos paralelos_patricio,15,5,0.23809523809523808
+Expert3,Todas las canciones de amor son canciones tristes_gpt4_en,16,4,0.19047619047619047
+Expert3,Lindsay Hilton visita París_patricio,16,4,0.19047619047619047
+Expert3,El pintor de recuerdos_gpt4_en,16,4,0.19047619047619047
+Expert3,¿Quién mató a Patricio Pron?_gpt4_en,16,4,0.19047619047619047
+Expert3,La última noche en la Tierra_patricio,16,4,0.19047619047619047
+Expert3,Reflejos de otro mundo_gpt4_en,16,4,0.19047619047619047
+Expert3,Otro episodio en la lucha de clases_gpt4_en,17,3,0.14285714285714285
+Expert3,Huellas en el mar de arena_gpt4_en,17,3,0.14285714285714285
+Expert3,El jardín de los sueños marchitos_patricio,17,3,0.14285714285714285
+Expert3,Bajo el cielo de cobre_gpt4_en,17,3,0.14285714285714285
+Expert3,El Paraíso no puede verse desde aquí_gpt4_en,17,3,0.14285714285714285
+Expert3,Aquí habitan monstruos_gpt4_en,17,3,0.14285714285714285
+Expert3,Eclipse en el Jardín Botánico_gpt4_en,17,3,0.14285714285714285
+Expert3,"Escoge una carta, cualquiera. ¡No, esa no! ¡Otra!_gpt4_en",17,3,0.14285714285714285
+Expert3,La melodía olvidada_gpt4_en,17,3,0.14285714285714285
+Expert3,La ciudad invertida_gpt4_en,17,3,0.14285714285714285
+Expert3,El último vuelo de la mariposa_gpt4_en,17,3,0.14285714285714285
+Expert3,"Ascenso y caída de R. S. Turtleneck, escritor infantil_gpt4_en",17,3,0.14285714285714285
+Expert3,"Sedas de Bursa, azulejos de Kütahya_gpt4_en",17,3,0.14285714285714285
+Expert3,El eco de las voces silenciadas_gpt4_en,17,3,0.14285714285714285
+Expert3,El viento entre los páramos_patricio,17,3,0.14285714285714285
+Expert3,La última noche en la Tierra_gpt4_en,17,3,0.14285714285714285
+Expert3,La travesía del Alba_patricio,17,3,0.14285714285714285
+Expert3,El laberinto de cristal_gpt4_en,17,3,0.14285714285714285
+Expert3,El despertar de la Aurora_gpt4_en,17,3,0.14285714285714285
+Expert3,"Juventud española, sigue intentándolo_gpt4_en",17,3,0.14285714285714285
+Expert3,No tengo miedo porque no tengo nada_gpt4_en,18,2,0.09523809523809523
+Expert3,Todas las fotos son de cuando éramos jóvenes_gpt4_en,18,2,0.09523809523809523
+Expert3,Caminos paralelos_gpt4_en,18,2,0.09523809523809523
+Expert3,Sombras en la niebla_gpt4_en,18,2,0.09523809523809523
+Expert3,Retazos de realidad_gpt4_en,18,2,0.09523809523809523
+Expert3,Sombras en la niebla_patricio,18,2,0.09523809523809523
+Expert3,Después de todo lo que casi hice por ti_gpt4_en,18,2,0.09523809523809523
+Expert3,Susurros de la Ciudad Eterna_gpt4_en,18,2,0.09523809523809523
+Expert3,El último vuelo de la mariposa_patricio,19,1,0.047619047619047616
+Expert3,El jardín de los sueños marchitos_gpt4_en,19,1,0.047619047619047616
+Expert3,Dos policías nos separan_gpt4_en,19,1,0.047619047619047616
+Expert3,Entre las líneas del destino_gpt4_en,19,1,0.047619047619047616
+Expert3,Enfermedad mental tres días a la semana_gpt4_en,19,1,0.047619047619047616
+Expert3,Más allá del horizonte roto_patricio,19,1,0.047619047619047616
+Expert3,Destellos en la oscuridad_gpt4_en,19,1,0.047619047619047616
+Expert3,"Escoge una carta, cualquiera. ¡No, esa no! ¡Otra!_patricio",19,1,0.047619047619047616
+Expert3,Más allá del horizonte roto_gpt4_en,20,0,0.0
+Expert3,Entre nubes y espejismos_gpt4_en,20,0,0.0
+Expert3,Ecos de un sueño perdido_patricio,20,0,0.0
+Expert3,El laberinto de cristal_patricio,20,0,0.0
+Expert3,El susurro del cosmos_gpt4_en,20,0,0.0
+Expert3,La vaca atada_gpt4_en,20,0,0.0
+Expert3,Las sombras del tiempo_gpt4_en,20,0,0.0
+Expert3,El día después del día después del Día de la Marmota_gpt4_en,20,0,0.0
+Expert3,El mosaico del tiempo_gpt4_en,20,0,0.0
+Expert3,Ocaso de titanes_gpt4_en,20,0,0.0
+Expert3,Ecos del futuro_gpt4_en,20,0,0.0
+Expert3,Edith lo ama (luego volveremos a ello)_gpt4_en,20,0,0.0
+Expert4,El día después del día después del Día de la Marmota_patricio,1,19,1.0
+Expert4,El viento entre los páramos_patricio,2,17,0.8947368421052632
+Expert4,Las sombras del tiempo_patricio,3,16,0.8421052631578947
+Expert4,Huellas en el mar de arena_patricio,4,15,0.7894736842105263
+Expert4,El susurro del cosmos_patricio,4,15,0.7894736842105263
+Expert4,Fragmentos de un ayer invisible_patricio,5,14,0.7368421052631579
+Expert4,Reflejos de otro mundo_patricio,5,14,0.7368421052631579
+Expert4,Ocaso de titanes_patricio,5,14,0.7368421052631579
+Expert4,El último viaje de Santiago Calatrava_patricio,5,14,0.7368421052631579
+Expert4,El Botón Rojo nacional_patricio,5,14,0.7368421052631579
+Expert4,El laberinto de cristal_patricio,5,14,0.7368421052631579
+Expert4,Después de todo lo que casi hice por ti_patricio,5,14,0.7368421052631579
+Expert4,¿Quién mató a Patricio Pron?_patricio,5,14,0.7368421052631579
+Expert4,Destellos en la oscuridad_patricio,5,14,0.7368421052631579
+Expert4,Dos policías nos separan_patricio,5,14,0.7368421052631579
+Expert4,"Ascenso y caída de R. S. Turtleneck, escritor infantil_patricio",5,14,0.7368421052631579
+Expert4,El pintor de recuerdos_patricio,5,14,0.7368421052631579
+Expert4,Entre nubes y espejismos_patricio,5,14,0.7368421052631579
+Expert4,La travesía del Alba_patricio,5,14,0.7368421052631579
+Expert4,El eco de las voces silenciadas_patricio,5,14,0.7368421052631579
+Expert4,La ciudad invertida_patricio,6,13,0.6842105263157895
+Expert4,La vaca atada_patricio,6,13,0.6842105263157895
+Expert4,Las pesadillas del hombre invisible_patricio,6,13,0.6842105263157895
+Expert4,Más allá del horizonte roto_patricio,6,13,0.6842105263157895
+Expert4,Caminos paralelos_patricio,6,13,0.6842105263157895
+Expert4,Ecos de un sueño perdido_patricio,6,13,0.6842105263157895
+Expert4,Sombras en la niebla_patricio,6,13,0.6842105263157895
+Expert4,"Juventud española, sigue intentándolo_patricio",6,13,0.6842105263157895
+Expert4,La última risa de aquel año_patricio,6,13,0.6842105263157895
+Expert4,Edith lo ama (luego volveremos a ello)_patricio,6,13,0.6842105263157895
+Expert4,Enfermedad mental tres días a la semana_patricio,6,13,0.6842105263157895
+Expert4,El Paraíso no puede verse desde aquí_patricio,6,13,0.6842105263157895
+Expert4,El último vuelo de la mariposa_patricio,7,12,0.631578947368421
+Expert4,Otro episodio en la lucha de clases_patricio,7,12,0.631578947368421
+Expert4,La melodía olvidada_patricio,7,12,0.631578947368421
+Expert4,Canción de la Luna cautiva_patricio,7,12,0.631578947368421
+Expert4,El despertar de la Aurora_patricio,7,12,0.631578947368421
+Expert4,El mosaico del tiempo_patricio,7,12,0.631578947368421
+Expert4,Entre las líneas del destino_patricio,7,12,0.631578947368421
+Expert4,No se lo digas a mamá_patricio,8,11,0.5789473684210527
+Expert4,El jardín de los sueños marchitos_patricio,8,11,0.5789473684210527
+Expert4,Eclipse en el Jardín Botánico_patricio,8,11,0.5789473684210527
+Expert4,Ecos del futuro_patricio,8,11,0.5789473684210527
+Expert4,Retazos de realidad_patricio,8,11,0.5789473684210527
+Expert4,Todas las canciones de amor son canciones tristes_patricio,8,11,0.5789473684210527
+Expert4,La mujer Lego_patricio,8,11,0.5789473684210527
+Expert4,La última noche en la Tierra_patricio,8,11,0.5789473684210527
+Expert4,Fantasmas futuros_patricio,8,11,0.5789473684210527
+Expert4,Sigo tratando de olvidar tu promesa_patricio,8,11,0.5789473684210527
+Expert4,El pintor de recuerdos_gpt4_es,9,10,0.5263157894736842
+Expert4,Las delicias del Jardín de las Delicias_patricio,9,10,0.5263157894736842
+Expert4,No tengo miedo porque no tengo nada_patricio,9,10,0.5263157894736842
+Expert4,Lindsay Hilton visita París_patricio,9,10,0.5263157894736842
+Expert4,Las emisiones nocturnas_patricio,9,10,0.5263157894736842
+Expert4,"Sedas de Bursa, azulejos de Kütahya_patricio",9,10,0.5263157894736842
+Expert4,Todas las fotos son de cuando éramos jóvenes_patricio,9,10,0.5263157894736842
+Expert4,Aquí habitan monstruos_patricio,10,9,0.47368421052631576
+Expert4,Susurros de la Ciudad Eterna_patricio,10,9,0.47368421052631576
+Expert4,"Sedas de Bursa, azulejos de Kütahya_gpt4_es",10,9,0.47368421052631576
+Expert4,Las delicias del Jardín de las Delicias_gpt4_es,11,8,0.42105263157894735
+Expert4,"Escoge una carta, cualquiera. ¡No, esa no! ¡Otra!_patricio",12,7,0.3684210526315789
+Expert4,Enfermedad mental tres días a la semana_gpt4_es,12,7,0.3684210526315789
+Expert4,La mujer Lego_gpt4_es,13,6,0.3157894736842105
+Expert4,La ciudad invertida_gpt4_es,13,6,0.3157894736842105
+Expert4,Cuando estás en la cima no puedes caer más bajo_gpt4_es,14,5,0.2631578947368421
+Expert4,El despertar de la Aurora_gpt4_es,14,5,0.2631578947368421
+Expert4,El día después del día después del Día de la Marmota_gpt4_es,14,5,0.2631578947368421
+Expert4,Huellas en el mar de arena_gpt4_es,14,5,0.2631578947368421
+Expert4,El último vuelo de la mariposa_gpt4_es,15,4,0.21052631578947367
+Expert4,Cuando estás en la cima no puedes caer más bajo_patricio,15,4,0.21052631578947367
+Expert4,Bajo el cielo de cobre_patricio,15,4,0.21052631578947367
+Expert4,El viento entre los páramos_gpt4_es,15,4,0.21052631578947367
+Expert4,Ocaso de titanes_gpt4_es,16,3,0.15789473684210525
+Expert4,"Ascenso y caída de R. S. Turtleneck, escritor infantil_gpt4_es",16,3,0.15789473684210525
+Expert4,"Juventud española, sigue intentándolo_gpt4_es",16,3,0.15789473684210525
+Expert4,El laberinto de cristal_gpt4_es,16,3,0.15789473684210525
+Expert4,El Paraíso no puede verse desde aquí_gpt4_es,16,3,0.15789473684210525
+Expert4,La última noche en la Tierra_gpt4_es,16,3,0.15789473684210525
+Expert4,Fantasmas futuros_gpt4_es,16,3,0.15789473684210525
+Expert4,Bajo el cielo de cobre_gpt4_es,16,3,0.15789473684210525
+Expert4,Entre las líneas del destino_gpt4_es,17,2,0.10526315789473684
+Expert4,Ecos de un sueño perdido_gpt4_es,17,2,0.10526315789473684
+Expert4,Todas las fotos son de cuando éramos jóvenes_gpt4_es,17,2,0.10526315789473684
+Expert4,Otro episodio en la lucha de clases_gpt4_es,17,2,0.10526315789473684
+Expert4,No tengo miedo porque no tengo nada_gpt4_es,17,2,0.10526315789473684
+Expert4,¿Quién mató a Patricio Pron?_gpt4_es,18,1,0.05263157894736842
+Expert4,"Escoge una carta, cualquiera. ¡No, esa no! ¡Otra!_gpt4_es",18,1,0.05263157894736842
+Expert4,Entre nubes y espejismos_gpt4_es,18,1,0.05263157894736842
+Expert4,No se lo digas a mamá_gpt4_es,19,0,0.0
+Expert4,Más allá del horizonte roto_gpt4_es,19,0,0.0
+Expert4,Lindsay Hilton visita París_gpt4_es,19,0,0.0
+Expert4,Las sombras del tiempo_gpt4_es,19,0,0.0
+Expert4,Las pesadillas del hombre invisible_gpt4_es,19,0,0.0
+Expert4,Las emisiones nocturnas_gpt4_es,19,0,0.0
+Expert4,La última risa de aquel año_gpt4_es,19,0,0.0
+Expert4,Sombras en la niebla_gpt4_es,19,0,0.0
+Expert4,Reflejos de otro mundo_gpt4_es,19,0,0.0
+Expert4,Sigo tratando de olvidar tu promesa_gpt4_es,19,0,0.0
+Expert4,Retazos de realidad_gpt4_es,19,0,0.0
+Expert4,Caminos paralelos_gpt4_es,19,0,0.0
+Expert4,Aquí habitan monstruos_gpt4_es,19,0,0.0
+Expert4,Después de todo lo que casi hice por ti_gpt4_es,19,0,0.0
+Expert4,Todas las canciones de amor son canciones tristes_gpt4_es,19,0,0.0
+Expert4,Susurros de la Ciudad Eterna_gpt4_es,19,0,0.0
+Expert4,Destellos en la oscuridad_gpt4_es,19,0,0.0
+Expert4,Canción de la Luna cautiva_gpt4_es,19,0,0.0
+Expert4,La travesía del Alba_gpt4_es,19,0,0.0
+Expert4,La vaca atada_gpt4_es,19,0,0.0
+Expert4,El último viaje de Santiago Calatrava_gpt4_es,19,0,0.0
+Expert4,La melodía olvidada_gpt4_es,19,0,0.0
+Expert4,El jardín de los sueños marchitos_gpt4_es,19,0,0.0
+Expert4,Fragmentos de un ayer invisible_gpt4_es,19,0,0.0
+Expert4,El susurro del cosmos_gpt4_es,19,0,0.0
+Expert4,El mosaico del tiempo_gpt4_es,19,0,0.0
+Expert4,El eco de las voces silenciadas_gpt4_es,19,0,0.0
+Expert4,Dos policías nos separan_gpt4_es,19,0,0.0
+Expert4,Ecos del futuro_gpt4_es,19,0,0.0
+Expert4,Eclipse en el Jardín Botánico_gpt4_es,19,0,0.0
+Expert4,El Botón Rojo nacional_gpt4_es,19,0,0.0
+Expert4,Edith lo ama (luego volveremos a ello)_gpt4_es,19,0,0.0
+Expert5,Las pesadillas del hombre invisible_gpt4_es,1,21,1.0
+Expert5,El despertar de la Aurora_patricio,1,21,1.0
+Expert5,El Paraíso no puede verse desde aquí_patricio,1,21,1.0
+Expert5,El susurro del cosmos_patricio,1,21,1.0
+Expert5,El laberinto de cristal_patricio,1,21,1.0
+Expert5,La melodía olvidada_patricio,1,21,1.0
+Expert5,"Ascenso y caída de R. S. Turtleneck, escritor infantil_patricio",1,21,1.0
+Expert5,Cuando estás en la cima no puedes caer más bajo_gpt4_es,1,21,1.0
+Expert5,Destellos en la oscuridad_patricio,1,21,1.0
+Expert5,Después de todo lo que casi hice por ti_patricio,1,21,1.0
+Expert5,Reflejos de otro mundo_patricio,2,20,0.95
+Expert5,La travesía del Alba_patricio,2,20,0.95
+Expert5,Cuando estás en la cima no puedes caer más bajo_patricio,2,20,0.95
+Expert5,Las emisiones nocturnas_patricio,2,20,0.95
+Expert5,El jardín de los sueños marchitos_patricio,2,20,0.95
+Expert5,Canción de la Luna cautiva_patricio,3,19,0.9
+Expert5,El mosaico del tiempo_patricio,3,19,0.9
+Expert5,"Juventud española, sigue intentándolo_patricio",3,19,0.9
+Expert5,Retazos de realidad_patricio,3,19,0.9
+Expert5,El día después del día después del Día de la Marmota_patricio,3,19,0.9
+Expert5,La última noche en la Tierra_patricio,3,19,0.9
+Expert5,Otro episodio en la lucha de clases_patricio,4,18,0.85
+Expert5,Destellos en la oscuridad_gpt4_es,4,18,0.85
+Expert5,Todas las canciones de amor son canciones tristes_patricio,4,18,0.85
+Expert5,Aquí habitan monstruos_patricio,4,18,0.85
+Expert5,La última risa de aquel año_gpt4_es,4,18,0.85
+Expert5,Fragmentos de un ayer invisible_patricio,4,18,0.85
+Expert5,La última risa de aquel año_patricio,4,18,0.85
+Expert5,Dos policías nos separan_patricio,4,18,0.85
+Expert5,El pintor de recuerdos_patricio,4,18,0.85
+Expert5,La vaca atada_patricio,5,17,0.8
+Expert5,Más allá del horizonte roto_patricio,5,17,0.8
+Expert5,Lindsay Hilton visita París_patricio,5,17,0.8
+Expert5,Las delicias del Jardín de las Delicias_patricio,5,17,0.8
+Expert5,El último viaje de Santiago Calatrava_patricio,5,17,0.8
+Expert5,Fantasmas futuros_patricio,5,17,0.8
+Expert5,Eclipse en el Jardín Botánico_patricio,5,17,0.8
+Expert5,Sombras en la niebla_patricio,5,17,0.8
+Expert5,La ciudad invertida_patricio,6,16,0.75
+Expert5,"Escoge una carta, cualquiera. ¡No, esa no! ¡Otra!_patricio",6,16,0.75
+Expert5,Ecos de un sueño perdido_patricio,6,16,0.75
+Expert5,Edith lo ama (luego volveremos a ello)_patricio,6,16,0.75
+Expert5,El último vuelo de la mariposa_patricio,6,16,0.75
+Expert5,"Sedas de Bursa, azulejos de Kütahya_patricio",6,16,0.75
+Expert5,Las sombras del tiempo_patricio,6,16,0.75
+Expert5,Susurros de la Ciudad Eterna_patricio,6,16,0.75
+Expert5,Ecos del futuro_patricio,7,15,0.7
+Expert5,Caminos paralelos_patricio,7,15,0.7
+Expert5,El Botón Rojo nacional_patricio,7,15,0.7
+Expert5,El viento entre los páramos_patricio,7,15,0.7
+Expert5,Enfermedad mental tres días a la semana_patricio,8,14,0.65
+Expert5,Huellas en el mar de arena_patricio,8,14,0.65
+Expert5,El jardín de los sueños marchitos_gpt4_es,8,14,0.65
+Expert5,Entre nubes y espejismos_patricio,8,14,0.65
+Expert5,No se lo digas a mamá_patricio,8,14,0.65
+Expert5,La mujer Lego_patricio,8,14,0.65
+Expert5,Las pesadillas del hombre invisible_patricio,8,14,0.65
+Expert5,¿Quién mató a Patricio Pron?_patricio,8,14,0.65
+Expert5,Ocaso de titanes_patricio,8,14,0.65
+Expert5,No tengo miedo porque no tengo nada_patricio,8,14,0.65
+Expert5,Entre las líneas del destino_patricio,8,14,0.65
+Expert5,La travesía del Alba_gpt4_es,8,14,0.65
+Expert5,El eco de las voces silenciadas_patricio,9,13,0.6
+Expert5,Sigo tratando de olvidar tu promesa_patricio,9,13,0.6
+Expert5,Bajo el cielo de cobre_patricio,10,12,0.55
+Expert5,Todas las fotos son de cuando éramos jóvenes_patricio,10,12,0.55
+Expert5,Eclipse en el Jardín Botánico_gpt4_es,11,11,0.5
+Expert5,"Sedas de Bursa, azulejos de Kütahya_gpt4_es",12,8,0.35
+Expert5,El Paraíso no puede verse desde aquí_gpt4_es,12,8,0.35
+Expert5,Aquí habitan monstruos_gpt4_es,13,7,0.3
+Expert5,Lindsay Hilton visita París_gpt4_es,13,7,0.3
+Expert5,No se lo digas a mamá_gpt4_es,13,7,0.3
+Expert5,El último viaje de Santiago Calatrava_gpt4_es,13,7,0.3
+Expert5,El mosaico del tiempo_gpt4_es,13,7,0.3
+Expert5,Reflejos de otro mundo_gpt4_es,13,7,0.3
+Expert5,"Juventud española, sigue intentándolo_gpt4_es",13,7,0.3
+Expert5,Enfermedad mental tres días a la semana_gpt4_es,13,7,0.3
+Expert5,El Botón Rojo nacional_gpt4_es,14,6,0.25
+Expert5,La mujer Lego_gpt4_es,14,6,0.25
+Expert5,"Escoge una carta, cualquiera. ¡No, esa no! ¡Otra!_gpt4_es",14,6,0.25
+Expert5,Otro episodio en la lucha de clases_gpt4_es,14,6,0.25
+Expert5,Edith lo ama (luego volveremos a ello)_gpt4_es,14,6,0.25
+Expert5,Las emisiones nocturnas_gpt4_es,15,5,0.2
+Expert5,Todas las canciones de amor son canciones tristes_gpt4_es,15,5,0.2
+Expert5,Susurros de la Ciudad Eterna_gpt4_es,15,5,0.2
+Expert5,Sigo tratando de olvidar tu promesa_gpt4_es,15,5,0.2
+Expert5,Retazos de realidad_gpt4_es,15,5,0.2
+Expert5,Fragmentos de un ayer invisible_gpt4_es,15,5,0.2
+Expert5,Entre nubes y espejismos_gpt4_es,15,5,0.2
+Expert5,Después de todo lo que casi hice por ti_gpt4_es,15,5,0.2
+Expert5,Canción de la Luna cautiva_gpt4_es,15,5,0.2
+Expert5,El despertar de la Aurora_gpt4_es,16,4,0.15
+Expert5,"Ascenso y caída de R. S. Turtleneck, escritor infantil_gpt4_es",16,4,0.15
+Expert5,Fantasmas futuros_gpt4_es,16,4,0.15
+Expert5,El laberinto de cristal_gpt4_es,16,4,0.15
+Expert5,La ciudad invertida_gpt4_es,16,4,0.15
+Expert5,Más allá del horizonte roto_gpt4_es,16,4,0.15
+Expert5,Todas las fotos son de cuando éramos jóvenes_gpt4_es,17,3,0.1
+Expert5,Las delicias del Jardín de las Delicias_gpt4_es,17,3,0.1
+Expert5,El pintor de recuerdos_gpt4_es,17,3,0.1
+Expert5,El eco de las voces silenciadas_gpt4_es,17,3,0.1
+Expert5,El susurro del cosmos_gpt4_es,17,3,0.1
+Expert5,Entre las líneas del destino_gpt4_es,17,3,0.1
+Expert5,El día después del día después del Día de la Marmota_gpt4_es,17,3,0.1
+Expert5,Ecos del futuro_gpt4_es,17,3,0.1
+Expert5,Dos policías nos separan_gpt4_es,17,3,0.1
+Expert5,Ecos de un sueño perdido_gpt4_es,17,3,0.1
+Expert5,Huellas en el mar de arena_gpt4_es,17,3,0.1
+Expert5,La melodía olvidada_gpt4_es,18,2,0.05
+Expert5,Caminos paralelos_gpt4_es,18,2,0.05
+Expert5,Bajo el cielo de cobre_gpt4_es,18,2,0.05
+Expert5,¿Quién mató a Patricio Pron?_gpt4_es,18,2,0.05
+Expert5,Las sombras del tiempo_gpt4_es,18,2,0.05
+Expert5,Sombras en la niebla_gpt4_es,18,2,0.05
+Expert5,El último vuelo de la mariposa_gpt4_es,19,1,0.0
+Expert5,La vaca atada_gpt4_es,19,1,0.0
+Expert5,La última noche en la Tierra_gpt4_es,19,1,0.0
+Expert5,Ocaso de titanes_gpt4_es,19,1,0.0
+Expert5,No tengo miedo porque no tengo nada_gpt4_es,19,1,0.0
+Expert5,El viento entre los páramos_gpt4_es,19,1,0.0
+Expert6,Más allá del horizonte roto_patricio,1,18,1.0
+Expert6,Entre nubes y espejismos_patricio,2,17,0.9444444444444444
+Expert6,¿Quién mató a Patricio Pron?_patricio,2,17,0.9444444444444444
+Expert6,La vaca atada_patricio,3,16,0.8888888888888888
+Expert6,Caminos paralelos_patricio,3,16,0.8888888888888888
+Expert6,El susurro del cosmos_gpt4_es,3,16,0.8888888888888888
+Expert6,La melodía olvidada_gpt4_es,4,15,0.8333333333333334
+Expert6,Huellas en el mar de arena_patricio,4,15,0.8333333333333334
+Expert6,Canción de la Luna cautiva_patricio,4,15,0.8333333333333334
+Expert6,Enfermedad mental tres días a la semana_patricio,5,14,0.7777777777777778
+Expert6,"Escoge una carta, cualquiera. ¡No, esa no! ¡Otra!_patricio",5,14,0.7777777777777778
+Expert6,La melodía olvidada_patricio,5,14,0.7777777777777778
+Expert6,Las pesadillas del hombre invisible_patricio,5,14,0.7777777777777778
+Expert6,El laberinto de cristal_patricio,5,14,0.7777777777777778
+Expert6,Retazos de realidad_patricio,5,14,0.7777777777777778
+Expert6,La mujer Lego_gpt4_es,5,14,0.7777777777777778
+Expert6,El día después del día después del Día de la Marmota_patricio,5,14,0.7777777777777778
+Expert6,Sombras en la niebla_patricio,5,14,0.7777777777777778
+Expert6,La ciudad invertida_patricio,5,14,0.7777777777777778
+Expert6,Reflejos de otro mundo_patricio,6,13,0.7222222222222222
+Expert6,Enfermedad mental tres días a la semana_gpt4_es,6,13,0.7222222222222222
+Expert6,Las emisiones nocturnas_patricio,6,13,0.7222222222222222
+Expert6,El mosaico del tiempo_patricio,6,13,0.7222222222222222
+Expert6,"Juventud española, sigue intentándolo_patricio",7,12,0.6666666666666666
+Expert6,Reflejos de otro mundo_gpt4_es,7,12,0.6666666666666666
+Expert6,Sigo tratando de olvidar tu promesa_patricio,7,12,0.6666666666666666
+Expert6,Todas las fotos son de cuando éramos jóvenes_gpt4_es,7,12,0.6666666666666666
+Expert6,Otro episodio en la lucha de clases_patricio,7,12,0.6666666666666666
+Expert6,La mujer Lego_patricio,7,12,0.6666666666666666
+Expert6,El eco de las voces silenciadas_patricio,7,12,0.6666666666666666
+Expert6,Eclipse en el Jardín Botánico_gpt4_es,8,11,0.6111111111111112
+Expert6,"Ascenso y caída de R. S. Turtleneck, escritor infantil_patricio",8,11,0.6111111111111112
+Expert6,Ecos del futuro_gpt4_es,9,10,0.5555555555555556
+Expert6,El día después del día después del Día de la Marmota_gpt4_es,9,10,0.5555555555555556
+Expert6,Destellos en la oscuridad_gpt4_es,9,10,0.5555555555555556
+Expert6,El mosaico del tiempo_gpt4_es,9,10,0.5555555555555556
+Expert6,La vaca atada_gpt4_es,9,10,0.5555555555555556
+Expert6,Sombras en la niebla_gpt4_es,9,10,0.5555555555555556
+Expert6,Después de todo lo que casi hice por ti_patricio,9,10,0.5555555555555556
+Expert6,Susurros de la Ciudad Eterna_patricio,9,10,0.5555555555555556
+Expert6,¿Quién mató a Patricio Pron?_gpt4_es,9,10,0.5555555555555556
+Expert6,El Botón Rojo nacional_gpt4_es,10,9,0.5
+Expert6,El Botón Rojo nacional_patricio,10,9,0.5
+Expert6,Fragmentos de un ayer invisible_patricio,10,9,0.5
+Expert6,Destellos en la oscuridad_patricio,10,9,0.5
+Expert6,Bajo el cielo de cobre_gpt4_es,10,9,0.5
+Expert6,No se lo digas a mamá_patricio,11,8,0.4444444444444444
+Expert6,El despertar de la Aurora_gpt4_es,11,8,0.4444444444444444
+Expert6,El pintor de recuerdos_patricio,11,8,0.4444444444444444
+Expert6,El último vuelo de la mariposa_gpt4_es,11,8,0.4444444444444444
+Expert6,La ciudad invertida_gpt4_es,11,8,0.4444444444444444
+Expert6,Ecos del futuro_patricio,11,8,0.4444444444444444
+Expert6,Dos policías nos separan_patricio,11,8,0.4444444444444444
+Expert6,Cuando estás en la cima no puedes caer más bajo_patricio,11,8,0.4444444444444444
+Expert6,Bajo el cielo de cobre_patricio,12,7,0.3888888888888889
+Expert6,Edith lo ama (luego volveremos a ello)_gpt4_es,12,7,0.3888888888888889
+Expert6,El susurro del cosmos_patricio,12,7,0.3888888888888889
+Expert6,El Paraíso no puede verse desde aquí_gpt4_es,13,6,0.3333333333333333
+Expert6,Lindsay Hilton visita París_patricio,13,6,0.3333333333333333
+Expert6,"Sedas de Bursa, azulejos de Kütahya_patricio",13,6,0.3333333333333333
+Expert6,El pintor de recuerdos_gpt4_es,13,6,0.3333333333333333
+Expert6,Entre las líneas del destino_patricio,13,6,0.3333333333333333
+Expert6,La última noche en la Tierra_patricio,13,6,0.3333333333333333
+Expert6,Sigo tratando de olvidar tu promesa_gpt4_es,13,6,0.3333333333333333
+Expert6,Fantasmas futuros_gpt4_es,13,6,0.3333333333333333
+Expert6,Entre las líneas del destino_gpt4_es,13,6,0.3333333333333333
+Expert6,Más allá del horizonte roto_gpt4_es,13,6,0.3333333333333333
+Expert6,Las sombras del tiempo_patricio,13,6,0.3333333333333333
+Expert6,Las emisiones nocturnas_gpt4_es,13,6,0.3333333333333333
+Expert6,Ocaso de titanes_patricio,14,5,0.2777777777777778
+Expert6,La travesía del Alba_patricio,14,5,0.2777777777777778
+Expert6,Ocaso de titanes_gpt4_es,14,5,0.2777777777777778
+Expert6,Entre nubes y espejismos_gpt4_es,14,5,0.2777777777777778
+Expert6,"Escoge una carta, cualquiera. ¡No, esa no! ¡Otra!_gpt4_es",14,5,0.2777777777777778
+Expert6,Las delicias del Jardín de las Delicias_gpt4_es,14,5,0.2777777777777778
+Expert6,No tengo miedo porque no tengo nada_gpt4_es,14,5,0.2777777777777778
+Expert6,Edith lo ama (luego volveremos a ello)_patricio,14,5,0.2777777777777778
+Expert6,"Juventud española, sigue intentándolo_gpt4_es",14,5,0.2777777777777778
+Expert6,El jardín de los sueños marchitos_patricio,14,5,0.2777777777777778
+Expert6,El despertar de la Aurora_patricio,14,5,0.2777777777777778
+Expert6,Canción de la Luna cautiva_gpt4_es,14,5,0.2777777777777778
+Expert6,Todas las canciones de amor son canciones tristes_patricio,14,5,0.2777777777777778
+Expert6,Todas las fotos son de cuando éramos jóvenes_patricio,15,4,0.2222222222222222
+Expert6,El último vuelo de la mariposa_patricio,15,4,0.2222222222222222
+Expert6,El viento entre los páramos_patricio,15,4,0.2222222222222222
+Expert6,Eclipse en el Jardín Botánico_patricio,15,4,0.2222222222222222
+Expert6,No se lo digas a mamá_gpt4_es,15,4,0.2222222222222222
+Expert6,La travesía del Alba_gpt4_es,15,4,0.2222222222222222
+Expert6,El laberinto de cristal_gpt4_es,15,4,0.2222222222222222
+Expert6,Aquí habitan monstruos_gpt4_es,15,4,0.2222222222222222
+Expert6,Las delicias del Jardín de las Delicias_patricio,15,4,0.2222222222222222
+Expert6,La última risa de aquel año_patricio,15,4,0.2222222222222222
+Expert6,El jardín de los sueños marchitos_gpt4_es,15,4,0.2222222222222222
+Expert6,Las pesadillas del hombre invisible_gpt4_es,15,4,0.2222222222222222
+Expert6,Fragmentos de un ayer invisible_gpt4_es,15,4,0.2222222222222222
+Expert6,Lindsay Hilton visita París_gpt4_es,15,4,0.2222222222222222
+Expert6,Todas las canciones de amor son canciones tristes_gpt4_es,16,3,0.16666666666666666
+Expert6,El viento entre los páramos_gpt4_es,16,3,0.16666666666666666
+Expert6,Retazos de realidad_gpt4_es,16,3,0.16666666666666666
+Expert6,Cuando estás en la cima no puedes caer más bajo_gpt4_es,16,3,0.16666666666666666
+Expert6,"Ascenso y caída de R. S. Turtleneck, escritor infantil_gpt4_es",16,3,0.16666666666666666
+Expert6,El último viaje de Santiago Calatrava_patricio,16,3,0.16666666666666666
+Expert6,El Paraíso no puede verse desde aquí_patricio,16,3,0.16666666666666666
+Expert6,Ecos de un sueño perdido_gpt4_es,16,3,0.16666666666666666
+Expert6,Huellas en el mar de arena_gpt4_es,16,3,0.16666666666666666
+Expert6,No tengo miedo porque no tengo nada_patricio,16,3,0.16666666666666666
+Expert6,El último viaje de Santiago Calatrava_gpt4_es,16,3,0.16666666666666666
+Expert6,Fantasmas futuros_patricio,16,3,0.16666666666666666
+Expert6,Las sombras del tiempo_gpt4_es,16,3,0.16666666666666666
+Expert6,La última risa de aquel año_gpt4_es,17,2,0.1111111111111111
+Expert6,La última noche en la Tierra_gpt4_es,17,2,0.1111111111111111
+Expert6,Aquí habitan monstruos_patricio,17,2,0.1111111111111111
+Expert6,Otro episodio en la lucha de clases_gpt4_es,17,2,0.1111111111111111
+Expert6,El eco de las voces silenciadas_gpt4_es,17,2,0.1111111111111111
+Expert6,Ecos de un sueño perdido_patricio,17,2,0.1111111111111111
+Expert6,Caminos paralelos_gpt4_es,18,1,0.05555555555555555
+Expert6,"Sedas de Bursa, azulejos de Kütahya_gpt4_es",18,1,0.05555555555555555
+Expert6,Dos policías nos separan_gpt4_es,18,1,0.05555555555555555
+Expert6,Después de todo lo que casi hice por ti_gpt4_es,19,0,0.0
+Expert6,Susurros de la Ciudad Eterna_gpt4_es,19,0,0.0

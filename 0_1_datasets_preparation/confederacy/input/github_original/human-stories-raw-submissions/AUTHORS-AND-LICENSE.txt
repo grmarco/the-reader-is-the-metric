@@ -1,0 +1,10 @@
+This folder contains six stories written by the following authors:
+
+human1 - by Kyle McKenzie
+human2 - by Bree Glasbergen
+human3 - by Kirsty Maclachlan
+human4 - by Caitlin Noakes
+human5 - by Ola Kwintowski
+humanUnused1 - by Kylie Ryan
+
+All stories are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

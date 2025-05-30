@@ -1,0 +1,4682 @@
+[
+    {
+        "preferred_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "other_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "other_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "other_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "other_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "other_text": "4OIE_bard-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4OIE_bard-2023-04-11-2",
+        "other_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "other_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "other_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "other_text": "7VXP_human2-2023-05-12-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7VXP_human2-2023-05-12-2",
+        "other_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "other_text": "8Q1Q_claude12-2023-04-04-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8Q1Q_claude12-2023-04-04-2",
+        "other_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "other_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "other_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "other_text": "HRLV_bing-creative-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HRLV_bing-creative-2023-04-11-2",
+        "other_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "other_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "other_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "other_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "other_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "other_text": "U360_OA_SFT_Llama_30B_6-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U360_OA_SFT_Llama_30B_6-2",
+        "other_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "other_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "other_text": "0BDQ_stablelm-tuned-alpha-7b-2023-04-20-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "other_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "other_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "other_text": "3ENJ_claude12-2023-04-04-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3ENJ_claude12-2023-04-04-5",
+        "other_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "other_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "other_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "other_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "other_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "other_text": "9SDQ_bing-creative-2023-04-11-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9SDQ_bing-creative-2023-04-11-5",
+        "other_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "other_text": "EH60_bard-2023-04-11-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EH60_bard-2023-04-11-5",
+        "other_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "other_text": "F845_gpt4all-j-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "F845_gpt4all-j-2023-04-14-5",
+        "other_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "other_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "other_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "other_text": "S2BM_human5-2023-05-12-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "S2BM_human5-2023-05-12-5",
+        "other_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "other_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "other_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "other_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "other_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "other_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "other_text": "143V_chatgpt-free-mar23version-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "other_text": "3ENJ_claude12-2023-04-04-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3ENJ_claude12-2023-04-04-5",
+        "other_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "other_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "other_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "other_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "other_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "other_text": "9SDQ_bing-creative-2023-04-11-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9SDQ_bing-creative-2023-04-11-5",
+        "other_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "other_text": "EH60_bard-2023-04-11-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EH60_bard-2023-04-11-5",
+        "other_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "other_text": "F845_gpt4all-j-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "F845_gpt4all-j-2023-04-14-5",
+        "other_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "other_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "other_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "other_text": "S2BM_human5-2023-05-12-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "S2BM_human5-2023-05-12-5",
+        "other_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "other_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "other_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "other_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "other_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "other_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "other_text": "1D8I_dolly-v2-12b-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2477_claude12-2023-04-04-3",
+        "other_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "other_text": "2477_claude12-2023-04-04-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2477_claude12-2023-04-04-3",
+        "other_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "other_text": "2477_claude12-2023-04-04-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2477_claude12-2023-04-04-3",
+        "other_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "other_text": "2477_claude12-2023-04-04-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2477_claude12-2023-04-04-3",
+        "other_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "other_text": "2477_claude12-2023-04-04-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2477_claude12-2023-04-04-3",
+        "other_text": "FHWX_bard-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FHWX_bard-2023-04-11-3",
+        "other_text": "2477_claude12-2023-04-04-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2477_claude12-2023-04-04-3",
+        "other_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "other_text": "2477_claude12-2023-04-04-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2477_claude12-2023-04-04-3",
+        "other_text": "HJYG_human3-2023-05-12-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HJYG_human3-2023-05-12-3",
+        "other_text": "2477_claude12-2023-04-04-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2477_claude12-2023-04-04-3",
+        "other_text": "L9PD_bing-creative-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "L9PD_bing-creative-2023-04-11-3",
+        "other_text": "2477_claude12-2023-04-04-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2477_claude12-2023-04-04-3",
+        "other_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "other_text": "2477_claude12-2023-04-04-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2477_claude12-2023-04-04-3",
+        "other_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "other_text": "2477_claude12-2023-04-04-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2477_claude12-2023-04-04-3",
+        "other_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "other_text": "2477_claude12-2023-04-04-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2477_claude12-2023-04-04-3",
+        "other_text": "V455_OA_SFT_Llama_30B_6-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V455_OA_SFT_Llama_30B_6-3",
+        "other_text": "2477_claude12-2023-04-04-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "other_text": "3AA0_bing-creative-2023-04-11-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3AA0_bing-creative-2023-04-11-4",
+        "other_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "other_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "other_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "other_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "other_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "other_text": "CEU6_human4-2023-05-12-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CEU6_human4-2023-05-12-4",
+        "other_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "other_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "other_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "other_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "other_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "other_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "other_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "other_text": "KO23_bard-2023-04-11-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KO23_bard-2023-04-11-4",
+        "other_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "other_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "other_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "other_text": "QQWM_claude12-2023-04-04-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "QQWM_claude12-2023-04-04-4",
+        "other_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "other_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "other_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "other_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "other_text": "2QCD_alpaca-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "other_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "other_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "other_text": "4OIE_bard-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4OIE_bard-2023-04-11-2",
+        "other_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "other_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "other_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "other_text": "7VXP_human2-2023-05-12-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7VXP_human2-2023-05-12-2",
+        "other_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "other_text": "8Q1Q_claude12-2023-04-04-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8Q1Q_claude12-2023-04-04-2",
+        "other_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "other_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "other_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "other_text": "HRLV_bing-creative-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HRLV_bing-creative-2023-04-11-2",
+        "other_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "other_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "other_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "other_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "other_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "other_text": "U360_OA_SFT_Llama_30B_6-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U360_OA_SFT_Llama_30B_6-2",
+        "other_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "other_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "other_text": "2RYL_gpt4all-j-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3AA0_bing-creative-2023-04-11-4",
+        "other_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "other_text": "3AA0_bing-creative-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3AA0_bing-creative-2023-04-11-4",
+        "other_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "other_text": "3AA0_bing-creative-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3AA0_bing-creative-2023-04-11-4",
+        "other_text": "CEU6_human4-2023-05-12-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CEU6_human4-2023-05-12-4",
+        "other_text": "3AA0_bing-creative-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3AA0_bing-creative-2023-04-11-4",
+        "other_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "other_text": "3AA0_bing-creative-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3AA0_bing-creative-2023-04-11-4",
+        "other_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "other_text": "3AA0_bing-creative-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3AA0_bing-creative-2023-04-11-4",
+        "other_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "other_text": "3AA0_bing-creative-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3AA0_bing-creative-2023-04-11-4",
+        "other_text": "KO23_bard-2023-04-11-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KO23_bard-2023-04-11-4",
+        "other_text": "3AA0_bing-creative-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3AA0_bing-creative-2023-04-11-4",
+        "other_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "other_text": "3AA0_bing-creative-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3AA0_bing-creative-2023-04-11-4",
+        "other_text": "QQWM_claude12-2023-04-04-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "QQWM_claude12-2023-04-04-4",
+        "other_text": "3AA0_bing-creative-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3AA0_bing-creative-2023-04-11-4",
+        "other_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "other_text": "3AA0_bing-creative-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3AA0_bing-creative-2023-04-11-4",
+        "other_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "other_text": "3AA0_bing-creative-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3ENJ_claude12-2023-04-04-5",
+        "other_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "other_text": "3ENJ_claude12-2023-04-04-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3ENJ_claude12-2023-04-04-5",
+        "other_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "other_text": "3ENJ_claude12-2023-04-04-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3ENJ_claude12-2023-04-04-5",
+        "other_text": "9SDQ_bing-creative-2023-04-11-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9SDQ_bing-creative-2023-04-11-5",
+        "other_text": "3ENJ_claude12-2023-04-04-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3ENJ_claude12-2023-04-04-5",
+        "other_text": "EH60_bard-2023-04-11-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EH60_bard-2023-04-11-5",
+        "other_text": "3ENJ_claude12-2023-04-04-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3ENJ_claude12-2023-04-04-5",
+        "other_text": "F845_gpt4all-j-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "F845_gpt4all-j-2023-04-14-5",
+        "other_text": "3ENJ_claude12-2023-04-04-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3ENJ_claude12-2023-04-04-5",
+        "other_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "other_text": "3ENJ_claude12-2023-04-04-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3ENJ_claude12-2023-04-04-5",
+        "other_text": "S2BM_human5-2023-05-12-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "S2BM_human5-2023-05-12-5",
+        "other_text": "3ENJ_claude12-2023-04-04-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3ENJ_claude12-2023-04-04-5",
+        "other_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "other_text": "3ENJ_claude12-2023-04-04-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3ENJ_claude12-2023-04-04-5",
+        "other_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "other_text": "3ENJ_claude12-2023-04-04-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3ENJ_claude12-2023-04-04-5",
+        "other_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "other_text": "3ENJ_claude12-2023-04-04-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "other_text": "4OIE_bard-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4OIE_bard-2023-04-11-2",
+        "other_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "other_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "other_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "other_text": "7VXP_human2-2023-05-12-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7VXP_human2-2023-05-12-2",
+        "other_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "other_text": "8Q1Q_claude12-2023-04-04-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8Q1Q_claude12-2023-04-04-2",
+        "other_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "other_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "other_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "other_text": "HRLV_bing-creative-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HRLV_bing-creative-2023-04-11-2",
+        "other_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "other_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "other_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "other_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "other_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "other_text": "U360_OA_SFT_Llama_30B_6-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U360_OA_SFT_Llama_30B_6-2",
+        "other_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "other_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "other_text": "3LNP_vicuna-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "other_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "other_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "other_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "other_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "other_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "other_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "other_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "other_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "other_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "other_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "other_text": "E12Z_bing-creative-2023-04-07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "E12Z_bing-creative-2023-04-07-1",
+        "other_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "other_text": "EE4I_bard-2023-04-11-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EE4I_bard-2023-04-11-1",
+        "other_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "other_text": "HBE3_claude12-2023-04-04-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HBE3_claude12-2023-04-04-1",
+        "other_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "other_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "other_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "other_text": "MSVY_human1-2023-05-12-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSVY_human1-2023-05-12-1",
+        "other_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "other_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "other_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "other_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "other_text": "3V7S_stablelm-tuned-alpha-7b-2023-04-20-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "other_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "other_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "other_text": "CEU6_human4-2023-05-12-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CEU6_human4-2023-05-12-4",
+        "other_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "other_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "other_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "other_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "other_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "other_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "other_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "other_text": "KO23_bard-2023-04-11-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KO23_bard-2023-04-11-4",
+        "other_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "other_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "other_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "other_text": "QQWM_claude12-2023-04-04-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "QQWM_claude12-2023-04-04-4",
+        "other_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "other_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "other_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "other_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "other_text": "411E_chatgpt-gpt4-mar23version-2023-04-14-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "other_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "other_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "other_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "other_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "other_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "other_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "other_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "other_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "other_text": "E12Z_bing-creative-2023-04-07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "E12Z_bing-creative-2023-04-07-1",
+        "other_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "other_text": "EE4I_bard-2023-04-11-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EE4I_bard-2023-04-11-1",
+        "other_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "other_text": "HBE3_claude12-2023-04-04-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HBE3_claude12-2023-04-04-1",
+        "other_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "other_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "other_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "other_text": "MSVY_human1-2023-05-12-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSVY_human1-2023-05-12-1",
+        "other_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "other_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "other_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "other_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "other_text": "4GOW_gpt4all-j-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4OIE_bard-2023-04-11-2",
+        "other_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "other_text": "4OIE_bard-2023-04-11-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4OIE_bard-2023-04-11-2",
+        "other_text": "7VXP_human2-2023-05-12-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7VXP_human2-2023-05-12-2",
+        "other_text": "4OIE_bard-2023-04-11-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4OIE_bard-2023-04-11-2",
+        "other_text": "8Q1Q_claude12-2023-04-04-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8Q1Q_claude12-2023-04-04-2",
+        "other_text": "4OIE_bard-2023-04-11-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4OIE_bard-2023-04-11-2",
+        "other_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "other_text": "4OIE_bard-2023-04-11-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4OIE_bard-2023-04-11-2",
+        "other_text": "HRLV_bing-creative-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HRLV_bing-creative-2023-04-11-2",
+        "other_text": "4OIE_bard-2023-04-11-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4OIE_bard-2023-04-11-2",
+        "other_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "other_text": "4OIE_bard-2023-04-11-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4OIE_bard-2023-04-11-2",
+        "other_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "other_text": "4OIE_bard-2023-04-11-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4OIE_bard-2023-04-11-2",
+        "other_text": "U360_OA_SFT_Llama_30B_6-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U360_OA_SFT_Llama_30B_6-2",
+        "other_text": "4OIE_bard-2023-04-11-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4OIE_bard-2023-04-11-2",
+        "other_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "other_text": "4OIE_bard-2023-04-11-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "other_text": "7VXP_human2-2023-05-12-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7VXP_human2-2023-05-12-2",
+        "other_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "other_text": "8Q1Q_claude12-2023-04-04-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8Q1Q_claude12-2023-04-04-2",
+        "other_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "other_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "other_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "other_text": "HRLV_bing-creative-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HRLV_bing-creative-2023-04-11-2",
+        "other_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "other_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "other_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "other_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "other_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "other_text": "U360_OA_SFT_Llama_30B_6-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U360_OA_SFT_Llama_30B_6-2",
+        "other_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "other_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "other_text": "4UK5_koala-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "other_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "other_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "other_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "other_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "other_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "other_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "other_text": "E12Z_bing-creative-2023-04-07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "E12Z_bing-creative-2023-04-07-1",
+        "other_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "other_text": "EE4I_bard-2023-04-11-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EE4I_bard-2023-04-11-1",
+        "other_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "other_text": "HBE3_claude12-2023-04-04-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HBE3_claude12-2023-04-04-1",
+        "other_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "other_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "other_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "other_text": "MSVY_human1-2023-05-12-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSVY_human1-2023-05-12-1",
+        "other_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "other_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "other_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "other_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "other_text": "5LQ9_vicuna-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "other_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "other_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "other_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "other_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "other_text": "E12Z_bing-creative-2023-04-07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "E12Z_bing-creative-2023-04-07-1",
+        "other_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "other_text": "EE4I_bard-2023-04-11-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EE4I_bard-2023-04-11-1",
+        "other_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "other_text": "HBE3_claude12-2023-04-04-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HBE3_claude12-2023-04-04-1",
+        "other_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "other_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "other_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "other_text": "MSVY_human1-2023-05-12-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSVY_human1-2023-05-12-1",
+        "other_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "other_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "other_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "other_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "other_text": "7UKN_chatgpt-gpt4-mar23version-2023-04-14-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7VXP_human2-2023-05-12-2",
+        "other_text": "8Q1Q_claude12-2023-04-04-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8Q1Q_claude12-2023-04-04-2",
+        "other_text": "7VXP_human2-2023-05-12-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7VXP_human2-2023-05-12-2",
+        "other_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "other_text": "7VXP_human2-2023-05-12-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7VXP_human2-2023-05-12-2",
+        "other_text": "HRLV_bing-creative-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HRLV_bing-creative-2023-04-11-2",
+        "other_text": "7VXP_human2-2023-05-12-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7VXP_human2-2023-05-12-2",
+        "other_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "other_text": "7VXP_human2-2023-05-12-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7VXP_human2-2023-05-12-2",
+        "other_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "other_text": "7VXP_human2-2023-05-12-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7VXP_human2-2023-05-12-2",
+        "other_text": "U360_OA_SFT_Llama_30B_6-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U360_OA_SFT_Llama_30B_6-2",
+        "other_text": "7VXP_human2-2023-05-12-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "7VXP_human2-2023-05-12-2",
+        "other_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "other_text": "7VXP_human2-2023-05-12-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "other_text": "CEU6_human4-2023-05-12-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CEU6_human4-2023-05-12-4",
+        "other_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "other_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "other_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "other_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "other_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "other_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "other_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "other_text": "KO23_bard-2023-04-11-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KO23_bard-2023-04-11-4",
+        "other_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "other_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "other_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "other_text": "QQWM_claude12-2023-04-04-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "QQWM_claude12-2023-04-04-4",
+        "other_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "other_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "other_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "other_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "other_text": "8F6A_koala-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8Q1Q_claude12-2023-04-04-2",
+        "other_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "other_text": "8Q1Q_claude12-2023-04-04-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8Q1Q_claude12-2023-04-04-2",
+        "other_text": "HRLV_bing-creative-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HRLV_bing-creative-2023-04-11-2",
+        "other_text": "8Q1Q_claude12-2023-04-04-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8Q1Q_claude12-2023-04-04-2",
+        "other_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "other_text": "8Q1Q_claude12-2023-04-04-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8Q1Q_claude12-2023-04-04-2",
+        "other_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "other_text": "8Q1Q_claude12-2023-04-04-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8Q1Q_claude12-2023-04-04-2",
+        "other_text": "U360_OA_SFT_Llama_30B_6-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U360_OA_SFT_Llama_30B_6-2",
+        "other_text": "8Q1Q_claude12-2023-04-04-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8Q1Q_claude12-2023-04-04-2",
+        "other_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "other_text": "8Q1Q_claude12-2023-04-04-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "other_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "other_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "other_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "other_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "other_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "other_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "other_text": "FHWX_bard-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FHWX_bard-2023-04-11-3",
+        "other_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "other_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "other_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "other_text": "HJYG_human3-2023-05-12-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HJYG_human3-2023-05-12-3",
+        "other_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "other_text": "L9PD_bing-creative-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "L9PD_bing-creative-2023-04-11-3",
+        "other_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "other_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "other_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "other_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "other_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "other_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "other_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "other_text": "V455_OA_SFT_Llama_30B_6-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V455_OA_SFT_Llama_30B_6-3",
+        "other_text": "8UJF_gpt4all-j-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "other_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "other_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "other_text": "E12Z_bing-creative-2023-04-07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "E12Z_bing-creative-2023-04-07-1",
+        "other_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "other_text": "EE4I_bard-2023-04-11-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EE4I_bard-2023-04-11-1",
+        "other_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "other_text": "HBE3_claude12-2023-04-04-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HBE3_claude12-2023-04-04-1",
+        "other_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "other_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "other_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "other_text": "MSVY_human1-2023-05-12-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSVY_human1-2023-05-12-1",
+        "other_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "other_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "other_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "other_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "other_text": "8X76_chatgpt-free-mar23version-2023-04-11-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "other_text": "E12Z_bing-creative-2023-04-07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "E12Z_bing-creative-2023-04-07-1",
+        "other_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "other_text": "EE4I_bard-2023-04-11-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EE4I_bard-2023-04-11-1",
+        "other_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "other_text": "HBE3_claude12-2023-04-04-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HBE3_claude12-2023-04-04-1",
+        "other_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "other_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "other_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "other_text": "MSVY_human1-2023-05-12-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSVY_human1-2023-05-12-1",
+        "other_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "other_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "other_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "other_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "other_text": "9189_alpaca-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "other_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "other_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "other_text": "9SDQ_bing-creative-2023-04-11-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9SDQ_bing-creative-2023-04-11-5",
+        "other_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "other_text": "EH60_bard-2023-04-11-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EH60_bard-2023-04-11-5",
+        "other_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "other_text": "F845_gpt4all-j-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "F845_gpt4all-j-2023-04-14-5",
+        "other_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "other_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "other_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "other_text": "S2BM_human5-2023-05-12-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "S2BM_human5-2023-05-12-5",
+        "other_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "other_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "other_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "other_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "other_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "other_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "other_text": "91IV_vicuna-13b-2023-04-07-temp07-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "other_text": "9SDQ_bing-creative-2023-04-11-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9SDQ_bing-creative-2023-04-11-5",
+        "other_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "other_text": "EH60_bard-2023-04-11-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EH60_bard-2023-04-11-5",
+        "other_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "other_text": "F845_gpt4all-j-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "F845_gpt4all-j-2023-04-14-5",
+        "other_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "other_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "other_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "other_text": "S2BM_human5-2023-05-12-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "S2BM_human5-2023-05-12-5",
+        "other_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "other_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "other_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "other_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "other_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "other_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "other_text": "9PP9_OA_SFT_Llama_30B_6-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9SDQ_bing-creative-2023-04-11-5",
+        "other_text": "EH60_bard-2023-04-11-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EH60_bard-2023-04-11-5",
+        "other_text": "9SDQ_bing-creative-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9SDQ_bing-creative-2023-04-11-5",
+        "other_text": "F845_gpt4all-j-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "F845_gpt4all-j-2023-04-14-5",
+        "other_text": "9SDQ_bing-creative-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9SDQ_bing-creative-2023-04-11-5",
+        "other_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "other_text": "9SDQ_bing-creative-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9SDQ_bing-creative-2023-04-11-5",
+        "other_text": "S2BM_human5-2023-05-12-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "S2BM_human5-2023-05-12-5",
+        "other_text": "9SDQ_bing-creative-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9SDQ_bing-creative-2023-04-11-5",
+        "other_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "other_text": "9SDQ_bing-creative-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9SDQ_bing-creative-2023-04-11-5",
+        "other_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "other_text": "9SDQ_bing-creative-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "9SDQ_bing-creative-2023-04-11-5",
+        "other_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "other_text": "9SDQ_bing-creative-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "other_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "other_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "other_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "other_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "other_text": "FHWX_bard-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FHWX_bard-2023-04-11-3",
+        "other_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "other_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "other_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "other_text": "HJYG_human3-2023-05-12-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HJYG_human3-2023-05-12-3",
+        "other_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "other_text": "L9PD_bing-creative-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "L9PD_bing-creative-2023-04-11-3",
+        "other_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "other_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "other_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "other_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "other_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "other_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "other_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "other_text": "V455_OA_SFT_Llama_30B_6-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V455_OA_SFT_Llama_30B_6-3",
+        "other_text": "B2NX_chatgpt-gpt4-mar23version-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CEU6_human4-2023-05-12-4",
+        "other_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "other_text": "CEU6_human4-2023-05-12-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CEU6_human4-2023-05-12-4",
+        "other_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "other_text": "CEU6_human4-2023-05-12-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CEU6_human4-2023-05-12-4",
+        "other_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "other_text": "CEU6_human4-2023-05-12-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CEU6_human4-2023-05-12-4",
+        "other_text": "KO23_bard-2023-04-11-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KO23_bard-2023-04-11-4",
+        "other_text": "CEU6_human4-2023-05-12-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CEU6_human4-2023-05-12-4",
+        "other_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "other_text": "CEU6_human4-2023-05-12-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CEU6_human4-2023-05-12-4",
+        "other_text": "QQWM_claude12-2023-04-04-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "QQWM_claude12-2023-04-04-4",
+        "other_text": "CEU6_human4-2023-05-12-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CEU6_human4-2023-05-12-4",
+        "other_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "other_text": "CEU6_human4-2023-05-12-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CEU6_human4-2023-05-12-4",
+        "other_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "other_text": "CEU6_human4-2023-05-12-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "other_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "other_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "other_text": "FHWX_bard-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FHWX_bard-2023-04-11-3",
+        "other_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "other_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "other_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "other_text": "HJYG_human3-2023-05-12-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HJYG_human3-2023-05-12-3",
+        "other_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "other_text": "L9PD_bing-creative-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "L9PD_bing-creative-2023-04-11-3",
+        "other_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "other_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "other_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "other_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "other_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "other_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "other_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "other_text": "V455_OA_SFT_Llama_30B_6-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V455_OA_SFT_Llama_30B_6-3",
+        "other_text": "CG9C_alpaca-13b-2023-04-07-temp07-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "other_text": "HRLV_bing-creative-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HRLV_bing-creative-2023-04-11-2",
+        "other_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "other_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "other_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "other_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "other_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "other_text": "U360_OA_SFT_Llama_30B_6-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U360_OA_SFT_Llama_30B_6-2",
+        "other_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "other_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "other_text": "D9WZ_dolly-v2-12b-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "other_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "other_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "other_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "other_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "other_text": "KO23_bard-2023-04-11-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KO23_bard-2023-04-11-4",
+        "other_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "other_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "other_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "other_text": "QQWM_claude12-2023-04-04-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "QQWM_claude12-2023-04-04-4",
+        "other_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "other_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "other_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "other_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "other_text": "DBV7_OA_SFT_Llama_30B_6-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "other_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "other_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "other_text": "KO23_bard-2023-04-11-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KO23_bard-2023-04-11-4",
+        "other_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "other_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "other_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "other_text": "QQWM_claude12-2023-04-04-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "QQWM_claude12-2023-04-04-4",
+        "other_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "other_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "other_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "other_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "other_text": "DTFW_vicuna-13b-2023-04-07-temp07-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "other_text": "KO23_bard-2023-04-11-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KO23_bard-2023-04-11-4",
+        "other_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "other_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "other_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "other_text": "QQWM_claude12-2023-04-04-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "QQWM_claude12-2023-04-04-4",
+        "other_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "other_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "other_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "other_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "other_text": "DU0E_chatgpt-free-mar23version-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "E12Z_bing-creative-2023-04-07-1",
+        "other_text": "EE4I_bard-2023-04-11-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EE4I_bard-2023-04-11-1",
+        "other_text": "E12Z_bing-creative-2023-04-07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "E12Z_bing-creative-2023-04-07-1",
+        "other_text": "HBE3_claude12-2023-04-04-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HBE3_claude12-2023-04-04-1",
+        "other_text": "E12Z_bing-creative-2023-04-07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "E12Z_bing-creative-2023-04-07-1",
+        "other_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "other_text": "E12Z_bing-creative-2023-04-07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "E12Z_bing-creative-2023-04-07-1",
+        "other_text": "MSVY_human1-2023-05-12-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSVY_human1-2023-05-12-1",
+        "other_text": "E12Z_bing-creative-2023-04-07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "E12Z_bing-creative-2023-04-07-1",
+        "other_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "other_text": "E12Z_bing-creative-2023-04-07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "E12Z_bing-creative-2023-04-07-1",
+        "other_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "other_text": "E12Z_bing-creative-2023-04-07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EE4I_bard-2023-04-11-1",
+        "other_text": "HBE3_claude12-2023-04-04-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HBE3_claude12-2023-04-04-1",
+        "other_text": "EE4I_bard-2023-04-11-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EE4I_bard-2023-04-11-1",
+        "other_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "other_text": "EE4I_bard-2023-04-11-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EE4I_bard-2023-04-11-1",
+        "other_text": "MSVY_human1-2023-05-12-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSVY_human1-2023-05-12-1",
+        "other_text": "EE4I_bard-2023-04-11-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EE4I_bard-2023-04-11-1",
+        "other_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "other_text": "EE4I_bard-2023-04-11-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EE4I_bard-2023-04-11-1",
+        "other_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "other_text": "EE4I_bard-2023-04-11-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EH60_bard-2023-04-11-5",
+        "other_text": "F845_gpt4all-j-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "F845_gpt4all-j-2023-04-14-5",
+        "other_text": "EH60_bard-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EH60_bard-2023-04-11-5",
+        "other_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "other_text": "EH60_bard-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EH60_bard-2023-04-11-5",
+        "other_text": "S2BM_human5-2023-05-12-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "S2BM_human5-2023-05-12-5",
+        "other_text": "EH60_bard-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EH60_bard-2023-04-11-5",
+        "other_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "other_text": "EH60_bard-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EH60_bard-2023-04-11-5",
+        "other_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "other_text": "EH60_bard-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "EH60_bard-2023-04-11-5",
+        "other_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "other_text": "EH60_bard-2023-04-11-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "F845_gpt4all-j-2023-04-14-5",
+        "other_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "other_text": "F845_gpt4all-j-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "F845_gpt4all-j-2023-04-14-5",
+        "other_text": "S2BM_human5-2023-05-12-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "S2BM_human5-2023-05-12-5",
+        "other_text": "F845_gpt4all-j-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "F845_gpt4all-j-2023-04-14-5",
+        "other_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "other_text": "F845_gpt4all-j-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "F845_gpt4all-j-2023-04-14-5",
+        "other_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "other_text": "F845_gpt4all-j-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "F845_gpt4all-j-2023-04-14-5",
+        "other_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "other_text": "F845_gpt4all-j-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "other_text": "FHWX_bard-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FHWX_bard-2023-04-11-3",
+        "other_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "other_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "other_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "other_text": "HJYG_human3-2023-05-12-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HJYG_human3-2023-05-12-3",
+        "other_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "other_text": "L9PD_bing-creative-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "L9PD_bing-creative-2023-04-11-3",
+        "other_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "other_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "other_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "other_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "other_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "other_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "other_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "other_text": "V455_OA_SFT_Llama_30B_6-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V455_OA_SFT_Llama_30B_6-3",
+        "other_text": "FB5P_stablelm-tuned-alpha-7b-2023-04-20-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FHWX_bard-2023-04-11-3",
+        "other_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "other_text": "FHWX_bard-2023-04-11-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FHWX_bard-2023-04-11-3",
+        "other_text": "HJYG_human3-2023-05-12-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HJYG_human3-2023-05-12-3",
+        "other_text": "FHWX_bard-2023-04-11-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FHWX_bard-2023-04-11-3",
+        "other_text": "L9PD_bing-creative-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "L9PD_bing-creative-2023-04-11-3",
+        "other_text": "FHWX_bard-2023-04-11-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FHWX_bard-2023-04-11-3",
+        "other_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "other_text": "FHWX_bard-2023-04-11-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FHWX_bard-2023-04-11-3",
+        "other_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "other_text": "FHWX_bard-2023-04-11-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FHWX_bard-2023-04-11-3",
+        "other_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "other_text": "FHWX_bard-2023-04-11-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "FHWX_bard-2023-04-11-3",
+        "other_text": "V455_OA_SFT_Llama_30B_6-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V455_OA_SFT_Llama_30B_6-3",
+        "other_text": "FHWX_bard-2023-04-11-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "other_text": "HJYG_human3-2023-05-12-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HJYG_human3-2023-05-12-3",
+        "other_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "other_text": "L9PD_bing-creative-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "L9PD_bing-creative-2023-04-11-3",
+        "other_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "other_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "other_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "other_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "other_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "other_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "other_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "other_text": "V455_OA_SFT_Llama_30B_6-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V455_OA_SFT_Llama_30B_6-3",
+        "other_text": "H45J_chatgpt-free-mar23version-2023-04-11-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HBE3_claude12-2023-04-04-1",
+        "other_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "other_text": "HBE3_claude12-2023-04-04-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HBE3_claude12-2023-04-04-1",
+        "other_text": "MSVY_human1-2023-05-12-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSVY_human1-2023-05-12-1",
+        "other_text": "HBE3_claude12-2023-04-04-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HBE3_claude12-2023-04-04-1",
+        "other_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "other_text": "HBE3_claude12-2023-04-04-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HBE3_claude12-2023-04-04-1",
+        "other_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "other_text": "HBE3_claude12-2023-04-04-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HJYG_human3-2023-05-12-3",
+        "other_text": "L9PD_bing-creative-2023-04-11-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "L9PD_bing-creative-2023-04-11-3",
+        "other_text": "HJYG_human3-2023-05-12-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HJYG_human3-2023-05-12-3",
+        "other_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "other_text": "HJYG_human3-2023-05-12-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HJYG_human3-2023-05-12-3",
+        "other_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "other_text": "HJYG_human3-2023-05-12-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HJYG_human3-2023-05-12-3",
+        "other_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "other_text": "HJYG_human3-2023-05-12-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HJYG_human3-2023-05-12-3",
+        "other_text": "V455_OA_SFT_Llama_30B_6-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V455_OA_SFT_Llama_30B_6-3",
+        "other_text": "HJYG_human3-2023-05-12-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HRLV_bing-creative-2023-04-11-2",
+        "other_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "other_text": "HRLV_bing-creative-2023-04-11-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HRLV_bing-creative-2023-04-11-2",
+        "other_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "other_text": "HRLV_bing-creative-2023-04-11-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HRLV_bing-creative-2023-04-11-2",
+        "other_text": "U360_OA_SFT_Llama_30B_6-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U360_OA_SFT_Llama_30B_6-2",
+        "other_text": "HRLV_bing-creative-2023-04-11-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "HRLV_bing-creative-2023-04-11-2",
+        "other_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "other_text": "HRLV_bing-creative-2023-04-11-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "other_text": "S2BM_human5-2023-05-12-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "S2BM_human5-2023-05-12-5",
+        "other_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "other_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "other_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "other_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "other_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "other_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "other_text": "KETI_stablelm-tuned-alpha-7b-2023-04-20-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KO23_bard-2023-04-11-4",
+        "other_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "other_text": "KO23_bard-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KO23_bard-2023-04-11-4",
+        "other_text": "QQWM_claude12-2023-04-04-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "QQWM_claude12-2023-04-04-4",
+        "other_text": "KO23_bard-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KO23_bard-2023-04-11-4",
+        "other_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "other_text": "KO23_bard-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KO23_bard-2023-04-11-4",
+        "other_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "other_text": "KO23_bard-2023-04-11-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "other_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "other_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "other_text": "U360_OA_SFT_Llama_30B_6-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U360_OA_SFT_Llama_30B_6-2",
+        "other_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "other_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "other_text": "KX0B_chatgpt-gpt4-mar23version-2023-04-14-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "L9PD_bing-creative-2023-04-11-3",
+        "other_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "other_text": "L9PD_bing-creative-2023-04-11-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "L9PD_bing-creative-2023-04-11-3",
+        "other_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "other_text": "L9PD_bing-creative-2023-04-11-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "L9PD_bing-creative-2023-04-11-3",
+        "other_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "other_text": "L9PD_bing-creative-2023-04-11-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "L9PD_bing-creative-2023-04-11-3",
+        "other_text": "V455_OA_SFT_Llama_30B_6-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V455_OA_SFT_Llama_30B_6-3",
+        "other_text": "L9PD_bing-creative-2023-04-11-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "other_text": "MSVY_human1-2023-05-12-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSVY_human1-2023-05-12-1",
+        "other_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "other_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "other_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "other_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "other_text": "M8M5_OA_SFT_Llama_30B_6-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "other_text": "U360_OA_SFT_Llama_30B_6-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U360_OA_SFT_Llama_30B_6-2",
+        "other_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "other_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "other_text": "MSP3_alpaca-13b-2023-04-07-temp07-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSVY_human1-2023-05-12-1",
+        "other_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "other_text": "MSVY_human1-2023-05-12-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "MSVY_human1-2023-05-12-1",
+        "other_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "other_text": "MSVY_human1-2023-05-12-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "other_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "other_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "other_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "other_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "other_text": "V455_OA_SFT_Llama_30B_6-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V455_OA_SFT_Llama_30B_6-3",
+        "other_text": "O58A_vicuna-13b-2023-04-07-temp07-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "other_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "other_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "other_text": "V455_OA_SFT_Llama_30B_6-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V455_OA_SFT_Llama_30B_6-3",
+        "other_text": "OHLS_koala-13b-2023-04-07-temp07-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "other_text": "QQWM_claude12-2023-04-04-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "QQWM_claude12-2023-04-04-4",
+        "other_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "other_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "other_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "other_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "other_text": "P3Q3_stablelm-tuned-alpha-7b-2023-04-20-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "other_text": "V455_OA_SFT_Llama_30B_6-3",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V455_OA_SFT_Llama_30B_6-3",
+        "other_text": "Q1QX_dolly-v2-12b-2023-04-14-3",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "QQWM_claude12-2023-04-04-4",
+        "other_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "other_text": "QQWM_claude12-2023-04-04-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "QQWM_claude12-2023-04-04-4",
+        "other_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "other_text": "QQWM_claude12-2023-04-04-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "S2BM_human5-2023-05-12-5",
+        "other_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "other_text": "S2BM_human5-2023-05-12-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "S2BM_human5-2023-05-12-5",
+        "other_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "other_text": "S2BM_human5-2023-05-12-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "S2BM_human5-2023-05-12-5",
+        "other_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "other_text": "S2BM_human5-2023-05-12-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "other_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "other_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "other_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "other_text": "SOH8_chatgpt-gpt4-mar23version-2023-04-14-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "other_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "TRVC_dolly-v2-12b-2023-04-14-1",
+        "other_text": "STXW_koala-13b-2023-04-07-temp07-1",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "other_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "Z08Z_gpt4all-j-2023-04-14-4",
+        "other_text": "U0OX_dolly-v2-12b-2023-04-14-4",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "U360_OA_SFT_Llama_30B_6-2",
+        "other_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "XWOA_chatgpt-free-mar23version-2023-04-11-2",
+        "other_text": "U360_OA_SFT_Llama_30B_6-2",
+        "label": 0,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "other_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "label": 1,
+        "user_id": "majority_voting"
+    },
+    {
+        "preferred_text": "V8DE_alpaca-13b-2023-04-07-temp07-5",
+        "other_text": "UAC2_koala-13b-2023-04-07-temp07-5",
+        "label": 0,
+        "user_id": "majority_voting"
+    }
+]
