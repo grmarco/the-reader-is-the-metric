@@ -1,4 +1,4 @@
-# When AI Writes Like Humans
+# The Reader is The Metric
 
 This repository contains the code for reproducibility of the experiments described in the paper "The Reader is the Metric: How Textual Features and Reader Profiles Explain Conflicting Evaluations of {AI} Creative Writing", published in ACL Findings 2025:
 
