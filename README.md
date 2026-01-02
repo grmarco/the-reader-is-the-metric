@@ -1,8 +1,30 @@
 # When AI Writes Like Humans
 
-This repository contains the code for reproducibility of the experiments described in the paper:
+This repository contains the code for reproducibility of the experiments described in the paper "The Reader is the Metric: How Textual Features and Reader Profiles Explain Conflicting Evaluations of {AI} Creative Writing", published in ACL Findings 2025:
 
-**"When AI Writes Like Humans: Capturing the Emergent Patterns of Literary Judgment via Intrinsic Textual Metrics"**
+```bibtex
+@inproceedings{marco-etal-2025-reader,
+    title = "The Reader is the Metric: How Textual Features and Reader Profiles Explain Conflicting Evaluations of {AI} Creative Writing",
+    author = "Marco, Guillermo  and
+      Gonzalo, Julio  and
+      Fresno, V{\'i}ctor",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-acl.1304/",
+    doi = "10.18653/v1/2025.findings-acl.1304",
+    pages = "25432--25449",
+    ISBN = "979-8-89176-256-5",
+    abstract = "Recent studies comparing AI-generated and human-authored literary texts have produced conflicting results: some suggest AI already surpasses human quality, while others argue it still falls short. We start from the hypothesis that such divergences can be largely explained by genuine differences in how readers interpret and value literature, rather than by an intrinsic quality of the texts evaluated. Using five public datasets (1,471 stories, 101 annotators including critics, students, and lay readers), we (i) extract 17 reference-less textual features (e.g., coherence, emotional variance, average sentence length...); (ii) model individual reader preferences, deriving feature importance vectors that reflect their textual priorities; and (iii) analyze these vectors in a shared ``preference space''. Reader vectors cluster into two profiles: {\_}surface-focused readers{\_} (mainly non-experts), who prioritize readability and textual richness; and {\_}holistic readers{\_} (mainly experts), who value thematic development, rhetorical variety, and sentiment dynamics. Our results quantitatively explain how measurements of literary quality are a function of how text features align with each reader{'}s preferences. These findings advocate for reader-sensitive evaluation frameworks in the field of creative text generation."
+}
+```
+
 
 The code implements all main analyses from the paper, including dataset preparation, computation of intrinsic textual metrics, and modeling reader preferences.
 
